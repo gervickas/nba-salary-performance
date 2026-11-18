@@ -1,0 +1,2102 @@
+draft_year,player_id,player,pick_overall,team_id,college_name
+1990,colemde01,Derrick Coleman,1,NJN,Syracuse
+1990,paytoga01,Gary Payton,2,SEA,Oregon State
+1990,abdulma02,Mahmoud Abdul-Rauf,3,DEN,LSU
+1990,scottde01,Dennis Scott,4,ORL,Georgia Tech
+1990,gillke01,Kendall Gill,5,CHH,Illinois
+1990,spencfe01,Felton Spencer,6,MIN,Louisville
+1990,simmoli01,Lionel Simmons,7,SAC,La Salle
+1990,kimblbo01,Bo Kimble,8,LAC,Loyola Marymount
+1990,burtowi01,Willie Burton,9,MIA,Minnesota
+1990,robinru01,Rumeal Robinson,10,ATL,Michigan
+1990,hillty01,Tyrone Hill,11,GSW,Xavier
+1990,kesslal01,Alec Kessler,12,HOU,Georgia
+1990,vaughlo01,Loy Vaught,13,LAC,Michigan
+1990,maystr01,Travis Mays,14,SAC,Texas
+1990,jamerda01,Dave Jamerson,15,MIA,Ohio University
+1990,millste01,Terry Mills,16,MIL,Michigan
+1990,mustaje01,Jerrod Mustaf,17,NYK,Maryland
+1990,causwdu01,Duane Causwell,18,SAC,Temple
+1990,brownde01,Dee Brown,19,BOS,Jacksonville University
+1990,glassge01,Gerald Glass,20,MIN,Ole Miss
+1990,willija01,Jayson Williams,21,PHO,St. John's
+1990,georgta01,Tate George,22,NJN,UConn
+1990,bonnean01,Anthony Bonner,23,SAC,Saint Louis
+1990,schindw01,Dwayne Schintzius,24,SAS,Florida
+1990,abdelal01,Alaa Abdelnaby,25,POR,Duke
+1990,blankla01,Lance Blanks,26,DET,Texas
+1990,campbel01,Elden Campbell,27,LAL,Clemson
+1990,jepsele01,Les Jepsen,28,GSW,Iowa
+1990,kukocto01,Toni Kukoč,29,CHI,
+1990,herreca01,Carl Herrera,30,MIA,Houston
+1990,knighne01,Negele Knight,31,PHO,Dayton
+1990,olivebr01,Brian Oliver,32,PHI,Georgia Tech
+1990,palmewa01,Walter Palmer,33,UTA,Dartmouth College
+1990,pritcke01,Kevin Pritchard,34,GSW,Kansas
+1990,fostegr01,Greg Foster,35,WSB,Texas-El Paso
+1990,wilsotr01,Trevor Wilson,36,ATL,UCLA
+1990,engliaj01,A.J. English,37,WSB,Virginia Union University
+1990,buechju01,Jud Buechler,38,SEA,Arizona
+1990,schefst01,Steve Scheffler,39,CHH,Purdue
+1990,colesbi01,Bimbo Coles,40,SAC,Virginia Tech
+1990,bardost01,Steve Bardo,41,ATL,Illinois
+1990,liberma01,Marcus Liberty,42,DEN,Illinois
+1990,masseto01,Tony Massenburg,43,SAS,Maryland
+1990,hensost01,Steve Henson,44,MIL,Kansas State
+1990,davisan01,Antonio Davis,45,IND,Texas-El Paso
+1990,willike03,Kenny Williams,46,IND,Elizabeth City State University
+1990,stronde01,Derek Strong,47,PHI,Xavier
+1990,cebalce01,Cedric Ceballos,48,PHO,Cal State Fullerton
+1990,hendeph01,Phil Henderson,49,DAL,Duke
+1990,babicmi01,Miloš Babić,50,PHO,Tennessee Technological University
+1990,smithto02,Tony Smith,51,LAL,Marquette
+1990,ruscost01,Stefano Rusconi,52,CLE,
+1990,shamsab01,Abdul Shamsid-Deen,53,SEA,Providence
+1990,higgise01,Sean Higgins,54,SAS,Michigan
+1991,johnsla02,Larry Johnson,1,CHH,UNLV
+1991,anderke01,Kenny Anderson,2,NJN,Georgia Tech
+1991,owensbi01,Billy Owens,3,SAC,Syracuse
+1991,mutomdi01,Dikembe Mutombo,4,DEN,Georgetown
+1991,smithst01,Steve Smith,5,MIA,Michigan State
+1991,smithdo03,Doug Smith,6,DAL,Missouri
+1991,longllu01,Luc Longley,7,MIN,New Mexico
+1991,maconma01,Mark Macon,8,DEN,Temple
+1991,augmost01,Stacey Augmon,9,ATL,UNLV
+1991,delebi01,Bison Dele,10,ORL,Arizona
+1991,brandte01,Terrell Brandon,11,CLE,Oregon
+1991,anthogr01,Greg Anthony,12,NYK,UNLV
+1991,davisda01,Dale Davis,13,IND,Clemson
+1991,kingri01,Rich King,14,SEA,Nebraska
+1991,aventan01,Anthony Avent,15,ATL,Seton Hall
+1991,gatlich01,Chris Gatling,16,GSW,Old Dominion
+1991,alexavi01,Victor Alexander,17,GSW,Iowa State
+1991,brookke01,Kevin Brooks,18,MIL,Louisiana
+1991,smithla02,LaBradford Smith,19,WSB,Louisville
+1991,turnejo01,John Turner,20,HOU,Phillips University
+1991,murdoer01,Eric Murdock,21,UTA,Providence
+1991,ellisle02,LeRon Ellis,22,LAC,Syracuse
+1991,roberst01,Stanley Roberts,23,ORL,LSU
+1991,foxri01,Rick Fox,24,BOS,UNC
+1991,vandish01,Shaun Vandiver,25,GSW,Colorado
+1991,randama01,Mark Randall,26,CHI,Kansas
+1991,chilcpe01,Pete Chilcutt,27,SAC,UNC
+1991,lynchke01,Kevin Lynch,28,CHH,Minnesota
+1991,acklege01,George Ackles,29,MIA,UNLV
+1991,monroro01,Rodney Monroe,30,ATL,NC State
+1991,brownra02,Randy Brown,31,SAC,New Mexico State
+1991,gallach01,Chad Gallagher,32,PHO,Creighton
+1991,hodgedo01,Donald Hodge,33,DAL,Temple
+1991,brownmy01,Myron Brown,34,MIN,Slippery Rock University of Pennsylvania
+1991,iuzzomi01,Mike Iuzzolino,35,DAL,Saint Francis University
+1991,corchch01,Chris Corchiani,36,ORL,NC State
+1991,perryel01,Elliot Perry,37,LAC,Memphis
+1991,wyliejo01,Joe Wylie,38,LAC,Miami (FL)
+1991,oliveji01,Jimmy Oliver,39,CLE,Purdue
+1991,overtdo01,Doug Overton,40,DET,La Salle
+1991,greense01,Sean Green,41,IND,Iona College
+1991,hoodst01,Steve Hood,42,SAC,James Madison University
+1991,strotla01,Lamont Strothers,43,GSW,Christopher Newport University
+1991,teheral01,Alvaro Teheran,44,PHI,Houston
+1991,phillbo01,Bobby Phills,45,MIL,Southern University and A&M College
+1991,dumasri02,Richard Dumas,46,PHO,Oklahoma State
+1991,hugheke02,Keith Hughes,47,HOU,Rutgers University
+1991,austiis01,Isaac Austin,48,UTA,Arizona State
+1991,suttogr01,Greg Sutton,49,SAS,Oral Roberts
+1991,wrighjo02,Joey Wright,50,PHO,Texas
+1991,tabakza01,Žan Tabak,51,HOU,
+1991,jonesan02,Anthony Jones,52,LAL,Oral Roberts
+1991,mcdadvo01,Von McDade,53,NJN,UW-Milwaukee
+1991,kennema01,Marcus Kennedy,54,POR,Eastern Michigan
+1992,onealsh01,Shaquille O'Neal,1,ORL,LSU
+1992,mournal01,Alonzo Mourning,2,CHH,Georgetown
+1992,laettch01,Christian Laettner,3,MIN,Duke
+1992,jacksji01,Jim Jackson,4,DAL,Ohio State
+1992,ellisla01,LaPhonso Ellis,5,DEN,Notre Dame
+1992,guglito01,Tom Gugliotta,6,WSB,NC State
+1992,williwa02,Walt Williams,7,SAC,Maryland
+1992,dayto01,Todd Day,8,MIL,Arkansas
+1992,weathcl01,Clarence Weatherspoon,9,PHI,Southern Miss
+1992,keefead01,Adam Keefe,10,ATL,Stanford
+1992,horryro01,Robert Horry,11,HOU,Alabama
+1992,minerha01,Harold Miner,12,MIA,USC
+1992,stithbr01,Bryant Stith,13,DEN,Virginia
+1992,sealyma01,Malik Sealy,14,IND,St. John's
+1992,peelean01,Anthony Peeler,15,LAL,Missouri
+1992,woodsra01,Randy Woods,16,LAC,La Salle
+1992,chrisdo01,Doug Christie,17,SEA,Pepperdine
+1992,murratr01,Tracy Murray,18,SAS,UCLA
+1992,macledo01,Don MacLean,19,DET,UCLA
+1992,davishu01,Hubert Davis,20,NYK,UNC
+1992,barryjo01,Jon Barry,21,BOS,Georgia Tech
+1992,milleol01,Oliver Miller,22,PHO,Arkansas
+1992,maybele01,Lee Mayberry,23,MIL,Arkansas
+1992,sprewla01,Latrell Sprewell,24,GSW,Alabama
+1992,spencel01,Elmore Spencer,25,LAC,UNLV
+1992,johnsda01,Dave Johnson,26,POR,Syracuse
+1992,houstby01,Byron Houston,27,CHI,Oklahoma State
+1992,maxeyma01,Marlon Maxey,28,MIN,Texas-El Paso
+1992,brownpj01,P.J. Brown,29,NJN,Louisiana Tech
+1992,rooksse01,Sean Rooks,30,DAL,Arizona
+1992,smithre01,Reggie Smith,31,POR,TCU
+1992,pricebr01,Brent Price,32,WSB,Oklahoma
+1992,willico01,Corey Williams,33,CHI,Oklahoma State
+1992,smithch03,Chris Smith,34,MIN,UConn
+1992,benneto01,Tony Bennett,35,CHH,Green Bay
+1992,coopedu01,Duane Cooper,36,LAL,USC
+1992,morriis01,Isaiah Morris,37,MIA,Arkansas
+1992,benneel01,Elmer Bennett,38,ATL,Notre Dame
+1992,greenli01,Litterial Green,39,CHI,Georgia
+1992,rogerst01,Steve Rogers,40,NJN,Alabama State University
+1992,jonespo01,Popeye Jones,41,HOU,Murray State
+1992,geigema01,Matt Geiger,42,MIA,Georgia Tech
+1992,danilsa01,Sasha Danilović,43,GSW,
+1992,willihe02,Henry Williams,44,SAS,UNC Charlotte
+1992,kingch01,Chris King,45,SEA,Wake Forest
+1992,werdaro01,Robert Werdann,46,DEN,St. John's
+1992,mornida01,Darren Morningstar,47,BOS,Pitt
+1992,davisbr02,Brian Davis,48,PHO,Duke
+1992,ellisro01,Ron Ellis,49,PHO,Louisiana Tech
+1992,fishma01,Matt Fish,50,GSW,UNC Wilmington
+1992,burroti01,Tim Burroughs,51,MIN,Jacksonville University
+1992,steigma01,Matt Steigenga,52,CHI,Michigan State
+1992,blaircu01,Curtis Blair,53,HOU,Richmond
+1992,roberbr02,Brett Roberts,54,SAC,Morehead State University
+1993,webbech01,Chris Webber,1,ORL,Michigan
+1993,bradlsh01,Shawn Bradley,2,PHI,BYU
+1993,hardaan01,Anfernee Hardaway,3,GSW,Memphis
+1993,mashbja01,Jamal Mashburn,4,DAL,Kentucky
+1993,rideris01,Isaiah Rider,5,MIN,UNLV
+1993,cheanca01,Calbert Cheaney,6,WSB,Indiana
+1993,hurlebo01,Bobby Hurley,7,SAC,Duke
+1993,bakervi01,Vin Baker,8,MIL,University of Hartford
+1993,rogerro01,Rodney Rogers,9,DEN,Wake Forest
+1993,hunteli01,Lindsey Hunter,10,DET,Jackson State University
+1993,houstal01,Allan Houston,11,DET,Tennessee
+1993,lynchge01,George Lynch,12,LAL,UNC
+1993,deherte01,Terry Dehere,13,LAC,Seton Hall
+1993,haskisc01,Scott Haskin,14,IND,Oregon State
+1993,edwardo01,Doug Edwards,15,ATL,Florida State
+1993,waltere01,Rex Walters,16,NJN,Kansas
+1993,grahagr01,Greg Graham,17,CHH,Indiana
+1993,wrighlu01,Luther Wright,18,UTA,Seton Hall
+1993,earlac01,Acie Earl,19,BOS,Iowa
+1993,burresc01,Scott Burrell,20,CHH,UConn
+1993,robinja02,James Robinson,21,POR,Alabama
+1993,millsch01,Chris Mills,22,CLE,Arizona
+1993,johnser02,Ervin Johnson,23,SEA,New Orleans
+1993,cassesa01,Sam Cassell,24,HOU,Florida State
+1993,blounco01,Corie Blount,25,CHI,Cincinnati
+1993,hammige01,Geert Hammink,26,ORL,LSU
+1993,mackema01,Malcolm Mackey,27,PHO,Georgia Tech
+1993,harrilu01,Lucious Harris,28,DAL,Cal State Long Beach
+1993,millssh01,Sherron Mills,29,MIN,VCU
+1993,muresgh01,Gheorghe Mureșan,30,WSB,
+1993,burnsev01,Evers Burns,31,SAC,Maryland
+1993,fordal01,Alphonso Ford,32,PHI,Mississippi Valley State University
+1993,rileyer01,Eric Riley,33,DAL,Michigan
+1993,meeda01,Darnell Mee,34,GSW,Western Kentucky
+1993,stokeed01,Ed Stokes,35,MIA,Arizona
+1993,bestjo01,John Best,36,NJN,Tennessee Technological University
+1993,vanexni01,Nick Van Exel,37,LAL,Cincinnati
+1993,mcraeco01,Conrad McRae,38,WSB,Syracuse
+1993,hillth01,Thomas Hill,39,IND,Duke
+1993,manniri01,Rich Manning,40,ATL,Washington
+1993,reedan01,Anthony Reed,41,CHI,Tulane
+1993,jordaad01,Adonis Jordan,42,SEA,Kansas
+1993,grantjo01,Josh Grant,43,DEN,Utah
+1993,holcoal01,Alex Holcombe,44,SAC,Baylor
+1993,russebr01,Bryon Russell,45,UTA,Cal State Long Beach
+1993,petruri01,Richard Petruška,46,HOU,UCLA
+1993,whitnch01,Chris Whitney,47,SAS,Clemson
+1993,thompke01,Kevin Thompson,48,POR,NC State
+1993,buforma01,Mark Buford,49,PHO,Mississippi Valley State University
+1993,nicolma01,Marcelo Nicola,50,HOU,
+1993,dunklsp01,Spencer Dunkley,51,IND,University of Delaware
+1993,peplomi01,Mike Peplowski,52,SAC,Michigan State
+1993,whitele01,Leonard White,53,LAC,Southern University and A&M College
+1993,wilsoby01,Byron Wilson,54,PHO,Utah
+1994,robingl01,Glenn Robinson,1,MIL,Purdue
+1994,kiddja01,Jason Kidd,2,DAL,California
+1994,hillgr01,Grant Hill,3,DET,Duke
+1994,marshdo01,Donyell Marshall,4,MIN,UConn
+1994,howarju01,Juwan Howard,5,WSB,Michigan
+1994,wrighsh01,Sharone Wright,6,PHI,Clemson
+1994,murrala01,Lamond Murray,7,LAC,California
+1994,grantbr01,Brian Grant,8,SAC,Xavier
+1994,montrer01,Eric Montross,9,BOS,UNC
+1994,jonesed02,Eddie Jones,10,LAL,Temple
+1994,rogerca01,Carlos Rogers,11,SEA,Tennessee State
+1994,reevekh01,Khalid Reeves,12,MIA,Arizona
+1994,roseja01,Jalen Rose,13,DEN,Michigan
+1994,dareyi01,Yinka Dare,14,NJN,George Washington
+1994,piatker01,Eric Piatkowski,15,IND,Nebraska
+1994,roziecl01,Clifford Rozier,16,GSW,Louisville
+1994,mckieaa01,Aaron McKie,17,POR,Temple
+1994,mobleer01,Eric Mobley,18,MIL,Pitt
+1994,dumasto01,Tony Dumas,19,DAL,Missouri-Kansas City
+1994,tylerbj01,B.J. Tyler,20,PHI,Texas
+1994,simpkdi01,Dickey Simpkins,21,CHI,Providence
+1994,curlebi01,Bill Curley,22,SAS,Boston College
+1994,persowe01,Wesley Person,23,PHO,Auburn
+1994,willimo01,Monty Williams,24,NYK,Notre Dame
+1994,minorgr01,Greg Minor,25,LAC,Louisville
+1994,wardch01,Charlie Ward,26,NYK,Florida State
+1994,thompbr01,Brooks Thompson,27,ORL,Oklahoma State
+1994,thomade02,Deon Thomas,28,DAL,Illinois
+1994,langan02,Antonio Lang,29,PHO,Duke
+1994,eisleho01,Howard Eisley,30,MIN,Boston College
+1994,dentro01,Rodney Dent,31,ORL,Kentucky
+1994,mcilvji01,Jim McIlvaine,32,WSB,Marquette
+1994,alstode01,Derrick Alston,33,PHI,Duquesne
+1994,nickega01,Gaylon Nickerson,34,ATL,Northwestern Oklahoma State University
+1994,smithmi02,Michael Smith,35,SAC,Providence
+1994,fetisan01,Andrei Fetisov,36,BOS,
+1994,wingfdo01,Dontonio Wingfield,37,SEA,Cincinnati
+1994,hancoda01,Darrin Hancock,38,CHH,Kansas
+1994,millean01,Anthony Miller,39,GSW,Michigan State
+1994,webstje01,Jeff Webster,40,MIA,Oklahoma
+1994,njokuwi01,William Njoku,41,IND,
+1994,colliga01,Gary Collier,42,CLE,Tulsa
+1994,scottsh01,Shawnelle Scott,43,POR,St. John's
+1994,baileda01,Damon Bailey,44,IND,Indiana
+1994,mortodw01,Dwayne Morton,45,GSW,Louisville
+1994,lenarvo01,Voshon Lenard,46,MIL,Minnesota
+1994,watsoja01,Jamie Watson,47,UTA,South Carolina
+1994,cruduje01,Jevon Crudup,48,DET,Missouri
+1994,brutokr01,Kris Bruton,49,CHI,Benedict College
+1994,claxtch01,Charles Claxton,50,PHO,Georgia
+1994,fundela01,Lawrence Funderburke,51,SAC,Ohio State
+1994,goldwan01,Anthony Goldwire,52,PHO,Houston
+1994,burdial01,Albert Burditt,53,HOU,Texas
+1994,rebraze01,Željko Rebrača,54,SEA,
+1995,smithjo02,Joe Smith,1,GSW,Maryland
+1995,mcdyean01,Antonio McDyess,2,LAC,Alabama
+1995,stackje01,Jerry Stackhouse,3,PHI,UNC
+1995,wallara01,Rasheed Wallace,4,WSB,UNC
+1995,garneke01,Kevin Garnett,5,MIN,
+1995,reevebr01,Bryant Reeves,6,VAN,Oklahoma State
+1995,stoudda01,Damon Stoudamire,7,TOR,Arizona
+1995,respesh01,Shawn Respert,8,POR,Michigan State
+1995,obanned01,Ed O'Bannon,9,NJN,UCLA
+1995,thomaku01,Kurt Thomas,10,MIA,TCU
+1995,trentga01,Gary Trent,11,MIL,Ohio University
+1995,parksch02,Cherokee Parks,12,DAL,Duke
+1995,willico02,Corliss Williamson,13,SAC,Arkansas
+1995,willier01,Eric Williams,14,BOS,Providence
+1995,barrybr01,Brent Barry,15,DEN,Oregon State
+1995,hendeal01,Alan Henderson,16,ATL,Indiana
+1995,surabo01,Bob Sura,17,CLE,Florida State
+1995,ratlith01,Theo Ratliff,18,DET,Wyoming
+1995,childra01,Randolph Childress,19,DET,Wake Forest
+1995,caffeja01,Jason Caffey,20,CHI,Alabama
+1995,finlemi01,Michael Finley,21,PHO,Wisconsin
+1995,zidekge01,George Zídek,22,CHH,UCLA
+1995,besttr01,Travis Best,23,IND,Georgia Tech
+1995,meyerlo01,Loren Meyer,24,DAL,Iowa State
+1995,vaughda02,David Vaughn,25,ORL,Memphis
+1995,fordsh01,Sherell Ford,26,SEA,University of Illinois at Chicago
+1995,bennema01,Mario Bennett,27,PHO,Arizona State
+1995,ostergr01,Greg Ostertag,28,UTA,Kansas
+1995,alexaco01,Cory Alexander,29,SAS,Virginia
+1995,roelo01,Lou Roe,30,DET,UMass
+1995,tarladr01,Dragan Tarlać,31,CHI,
+1995,renchte01,Terrence Rencher,32,WSB,Texas
+1995,burroju01,Junior Burrough,33,BOS,Virginia
+1995,declean01,Andrew DeClercq,34,GSW,Florida
+1995,kingji02,Jimmy King,35,TOR,Michigan
+1995,motenla01,Lawrence Moten,36,VAN,Syracuse
+1995,kingfr01,Frankie King,37,LAL,Western Carolina University
+1995,griffra01,Rashard Griffith,38,MIL,Wisconsin
+1995,marshdo02,Donny Marshall,39,CLE,UConn
+1995,whitfdw01,Dwayne Whitfield,40,GSW,Jackson State University
+1995,meeker01,Erik Meek,41,HOU,Duke
+1995,boycedo01,Donnie Boyce,42,ATL,Colorado
+1995,snower01,Eric Snow,43,MIL,Michigan State
+1995,pellean01,Anthony Pelle,44,DEN,Fresno State
+1995,browntr02,Troy Brown,45,ATL,Providence
+1995,banksge02,George Banks,46,MIA,Texas-El Paso
+1995,edneyty01,Tyus Edney,47,SAC,UCLA
+1995,davisma02,Mark Davis,48,MIN,Texas Tech
+1995,allenje01,Jerome Allen,49,MIN,Penn
+1995,lewisma01,Martin Lewis,50,GSW,Seward County Community College
+1995,bodirde01,Dejan Bodiroga,51,SAC,
+1995,hoibefr01,Fred Hoiberg,52,IND,Iowa State
+1995,popaco01,Constantin Popa,53,LAC,Miami (FL)
+1995,zukauau01,Eurelijus Žukauskas,54,SEA,
+1995,mcdonmi01,Michael McDonald,55,GSW,New Orleans
+1995,carrch01,Chris Carr,56,PHO,Southern Illinois
+1995,marticu01,Cuonzo Martin,57,ATL,Purdue
+1995,reiddo01,Don Reid,58,DET,Georgetown
+1996,iversal01,Allen Iverson,1,PHI,Georgetown
+1996,cambyma01,Marcus Camby,2,TOR,UMass
+1996,abdursh01,Shareef Abdur-Rahim,3,VAN,California
+1996,marbust01,Stephon Marbury,4,MIL,Georgia Tech
+1996,allenra02,Ray Allen,5,MIN,UConn
+1996,walkean02,Antoine Walker,6,BOS,Kentucky
+1996,wrighlo02,Lorenzen Wright,7,LAC,Memphis
+1996,kittlke01,Kerry Kittles,8,NJN,Villanova
+1996,walkesa01,Samaki Walker,9,DAL,Louisville
+1996,dampier01,Erick Dampier,10,IND,Mississippi State
+1996,fulleto02,Todd Fuller,11,GSW,NC State
+1996,potapvi01,Vitaly Potapenko,12,CLE,Wright State University
+1996,bryanko01,Kobe Bryant,13,CHH,
+1996,stojape01,Peja Stojaković,14,SAC,
+1996,nashst01,Steve Nash,15,PHO,Santa Clara
+1996,delkto01,Tony Delk,16,CHH,Kentucky
+1996,onealje01,Jermaine O'Neal,17,POR,
+1996,wallajo01,John Wallace,18,NYK,Syracuse
+1996,mccarwa01,Walter McCarty,19,NYK,Kentucky
+1996,ilgauzy01,Zydrunas Ilgauskas,20,CLE,
+1996,jonesdo01,Dontae' Jones,21,NYK,Mississippi State
+1996,rogerro02,Roy Rogers,22,VAN,Alabama
+1996,rentzef01,Efthimios Rentzias,23,DEN,
+1996,fishede01,Derek Fisher,24,LAL,Little Rock
+1996,muursma01,Martin Müürsepp,25,UTA,
+1996,willije01,Jerome Williams,26,DET,Georgetown
+1996,evansbr01,Brian Evans,27,ORL,Indiana
+1996,laudepr01,Priest Lauderdale,28,ATL,Central State University
+1996,knightr01,Travis Knight,29,CHI,UConn
+1996,harriot01,Othella Harrington,30,HOU,Georgetown
+1996,hendrma01,Mark Hendrickson,31,PHI,Washington State
+1996,minorry01,Ryan Minor,32,PHI,Oklahoma
+1996,norrimo01,Moochie Norris,33,MIL,University of West Florida
+1996,harvesh01,Shawn Harvey,34,DAL,West Virginia State University
+1996,blairjo02,Joseph Blair,35,SEA,Arizona
+1996,sheffdo01,Doron Sheffer,36,LAC,UConn
+1996,mcinnje01,Jeff McInnis,37,DEN,UNC
+1996,hamerst01,Steve Hamer,38,BOS,Tennessee
+1996,millaru01,Russ Millard,39,PHO,Iowa
+1996,mannma01,Marcus Mann,40,GSW,Mississippi Valley State University
+1996,sasseja01,Jason Sasser,41,SAC,Texas Tech
+1996,livinra01,Randy Livingston,42,HOU,LSU
+1996,davisbe01,Ben Davis,43,PHO,Arizona
+1996,rosema01,Malik Rose,44,CHH,Drexel
+1996,vogeljo01,Joe Vogel,45,SEA,Colorado State
+1996,brownma01,Marcus Brown,46,POR,Murray State
+1996,rileyro02,Ron Riley,47,SEA,Arizona State
+1996,feickja01,Jamie Feick,48,PHI,Michigan State
+1996,mccasam01,Amal McCaskill,49,ORL,Marquette
+1996,bellte01,Terrell Bell,50,HOU,Georgia
+1996,robinch01,Chris Robinson,51,VAN,Western Kentucky
+1996,popema01,Mark Pope,52,IND,Kentucky
+1996,nordgje01,Jeff Nordgaard,53,MIL,Green Bay
+1996,andersh01,Shandon Anderson,54,UTA,Georgia
+1996,hendero02,Ronnie Henderson,55,WSB,LSU
+1996,gearyre01,Reggie Geary,56,CLE,Arizona
+1996,barrydr01,Drew Barry,57,SEA,Georgia Tech
+1996,robinda03,Darnell Robinson,58,DAL,Arkansas
+1997,duncati01,Tim Duncan,1,SAS,Wake Forest
+1997,vanhoke01,Keith Van Horn,2,PHI,Utah
+1997,billuch01,Chauncey Billups,3,BOS,Colorado
+1997,daniean01,Antonio Daniels,4,VAN,Bowling Green
+1997,battito01,Tony Battie,5,DEN,Texas Tech
+1997,mercero01,Ron Mercer,6,BOS,Kentucky
+1997,thomati01,Tim Thomas,7,NJN,Villanova
+1997,foylead01,Adonal Foyle,8,GSW,Colgate
+1997,mcgratr01,Tracy McGrady,9,TOR,
+1997,fortsda01,Danny Fortson,10,MIL,Cincinnati
+1997,abdulta01,Tariq Abdul-Wahad,11,SAC,San Jose State
+1997,croshau01,Austin Croshere,12,IND,Providence
+1997,anderde01,Derek Anderson,13,CLE,Kentucky
+1997,tayloma01,Maurice Taylor,14,LAC,Michigan
+1997,catoke01,Kelvin Cato,15,DAL,Iowa State
+1997,knighbr01,Brevin Knight,16,CLE,Stanford
+1997,taylojo01,Johnny Taylor,17,ORL,Chattanooga
+1997,anstech01,Chris Anstey,18,POR,
+1997,pollasc01,Scot Pollard,19,DET,Kansas
+1997,grantpa01,Paul Grant,20,MIN,Wisconsin
+1997,parkean01,Anthony Parker,21,NJN,Bradley
+1997,grayed01,Ed Gray,22,ATL,California
+1997,jacksbo01,Bobby Jackson,23,SEA,Minnesota
+1997,rhodero01,Rodrick Rhodes,24,HOU,USC
+1997,thomajo02,John Thomas,25,NYK,Minnesota
+1997,smithch04,Charles Smith,26,MIA,New Mexico
+1997,vaughja01,Jacque Vaughn,27,UTA,Kansas
+1997,boothke01,Keith Booth,28,CHI,Maryland
+1997,zwikkse01,Serge Zwikker,30,HOU,UNC
+1997,sanfoma01,Mark Sanford,31,MIA,Washington
+1997,obannch01,Charles O'Bannon,32,DET,UCLA
+1997,cottoja02,James Cotton,33,DEN,Cal State Long Beach
+1997,milicma01,Marko Milič,34,PHI,
+1997,wellsbu01,Bubba Wells,35,DAL,Austin Peay State University
+1997,stewake01,Kebu Stewart,36,PHI,Cal State-Bakersfield
+1997,collija01,James Collins,37,PHI,Florida State
+1997,jacksma02,Marc Jackson,38,GSW,Temple
+1997,honeyje01,Jerald Honeycutt,39,MIL,Tulane
+1997,johnsan02,Anthony Johnson,40,SAC,College of Charleston
+1997,elismed01,Eddie Elisma,41,SEA,Georgia Tech
+1997,lawsoja01,Jason Lawson,42,DEN,Villanova
+1997,jacksst02,Stephen Jackson,43,PHO,Butler County Community College
+1997,malongo01,Gordon Malone,44,MIN,West Virginia
+1997,hendece02,Cedric Henderson,45,CLE,Memphis
+1997,shammgo01,God Shammgod,46,WAS,Providence
+1997,washier01,Eric Washington,47,ORL,Alabama
+1997,willial02,Alvin Williams,48,POR,Villanova
+1997,drobnpr01,Predrag Drobnjak,49,WAS,
+1997,digbeal01,Alain Digbeu,50,ATL,
+1997,crawfch01,Chris Crawford,51,ATL,Marquette
+1997,wheatde01,DeJuan Wheat,52,LAL,Louisville
+1997,brutocj01,C.J. Bruton,53,VAN,Indian Hills Community College
+1997,rogerpa01,Paul Rogers,54,LAL,Gonzaga
+1997,blounma01,Mark Blount,55,SEA,Pitt
+1997,peppebe01,Ben Pepper,56,BOS,
+1997,erdmana01,Nate Erdmann,57,UTA,Oklahoma
+1997,duenaro01,Roberto Duenas,58,CHI,
+1998,olowomi01,Michael Olowokandi,1,LAC,University of the Pacific
+1998,bibbymi01,Mike Bibby,2,VAN,Arizona
+1998,lafrera01,Raef LaFrentz,3,DEN,Kansas
+1998,jamisan01,Antawn Jamison,4,TOR,UNC
+1998,cartevi01,Vince Carter,5,GSW,UNC
+1998,traylro01,Robert Traylor,6,DAL,Michigan
+1998,willija02,Jason Williams,7,SAC,Florida
+1998,hughela01,Larry Hughes,8,PHI,Saint Louis
+1998,nowitdi01,Dirk Nowitzki,9,MIL,
+1998,piercpa01,Paul Pierce,10,BOS,Kansas
+1998,wellsbo01,Bonzi Wells,11,DET,Ball State University
+1998,doleami01,Michael Doleac,12,ORL,Utah
+1998,clarkke01,Keon Clark,13,ORL,UNLV
+1998,dickemi01,Michael Dickerson,14,HOU,Arizona
+1998,harprma01,Matt Harpring,15,ORL,Georgia Tech
+1998,drewbr01,Bryce Drew,16,HOU,Valparaiso
+1998,nestera01,Rasho Nesterović,17,MIN,
+1998,turkcmi01,Mirsad Türkcan,18,HOU,
+1998,garripa01,Pat Garrity,19,MIL,Notre Dame
+1998,mcleoro01,Roshown McLeod,20,ATL,Duke
+1998,davisri01,Ricky Davis,21,CHH,Iowa
+1998,skinnbr01,Brian Skinner,22,LAC,Baylor
+1998,luety01,Tyronn Lue,23,DEN,Nebraska
+1998,lopezfe01,Felipe López,24,SAS,St. John's
+1998,harrial01,Al Harrington,25,IND,
+1998,jacobsa01,Sam Jacobson,26,LAL,Minnesota
+1998,stepavl01,Vladimir Stepania,27,SEA,
+1998,benjaco01,Corey Benjamin,28,CHI,Oregon State
+1998,mohamna01,Nazr Mohammed,29,UTA,Kentucky
+1998,sesayan01,Ansu Sesay,30,DAL,Ole Miss
+1998,patteru01,Ruben Patterson,31,LAL,Cincinnati
+1998,lewisra02,Rashard Lewis,32,SEA,
+1998,mccoyje01,Jelani McCoy,33,SEA,UCLA
+1998,willish01,Shammond Williams,34,CHI,UNC
+1998,sundobr01,Bruno Šundov,35,DAL,
+1998,jamesje01,Jerome James,36,SAC,Florida A&M
+1998,shawca01,Casey Shaw,37,PHI,Toledo
+1998,johnsde02,DeMarco Johnson,38,NYK,UNC Charlotte
+1998,alstora01,Rafer Alston,39,MIL,Fresno State
+1998,youngko01,Korleone Young,40,DET,
+1998,moblecu01,Cuttino Mobley,41,HOU,Rhode Island
+1998,simonmi01,Miles Simon,42,ORL,Arizona
+1998,whiteja01,Jahidi White,43,WAS,Georgetown
+1998,marksse01,Sean Marks,44,NYK,California
+1998,baileto01,Toby Bailey,45,LAL,UCLA
+1998,pattean01,Andrae Patterson,46,MIN,Indiana
+1998,wheelty01,Tyson Wheeler,47,TOR,Rhode Island
+1998,stackry01,Ryan Stack,48,CLE,South Carolina
+1998,carrco01,Cory Carr,49,ATL,Texas Tech
+1998,bettsan01,Andrew Betts,50,CHH,Cal State Long Beach
+1998,breweco02,Corey Brewer,51,MIA,Oklahoma
+1998,dialde01,Derrick Dial,52,SAS,Eastern Michigan
+1998,buckngr01,Greg Buckner,53,DAL,Clemson
+1998,fowlktr01,Tremaine Fowlkes,54,DEN,Fresno State
+1998,bowenry01,Ryan Bowen,55,DEN,Iowa
+1998,hendejr01,J.R. Henderson,56,VAN,UCLA
+1998,braggto01,Torraye Braggs,57,UTA,Xavier
+1998,bastoma01,Maceo Baston,58,CHI,Michigan
+1999,brandel01,Elton Brand,1,CHI,Duke
+1999,francst01,Steve Francis,2,VAN,Maryland
+1999,davisba01,Baron Davis,3,CHH,UCLA
+1999,odomla01,Lamar Odom,4,LAC,Rhode Island
+1999,bendejo01,Jonathan Bender,5,TOR,
+1999,szczewa02,Wally Szczerbiak,6,MIN,Miami University
+1999,hamilri01,Richard Hamilton,7,WAS,UConn
+1999,millean02,Andre Miller,8,CLE,Utah
+1999,mariosh01,Shawn Marion,9,PHO,UNLV
+1999,terryja01,Jason Terry,10,ATL,Arizona
+1999,langdtr01,Trajan Langdon,11,CLE,Duke
+1999,radojal01,Aleksandar Radojević,12,TOR,Barton County Community College
+1999,maggeco01,Corey Maggette,13,SEA,Duke
+1999,averywi01,William Avery,14,MIN,Duke
+1999,weisfr01,Frédéric Weis,15,NYK,
+1999,artesro01,Metta World Peace,16,CHI,St. John's
+1999,bowdlca01,Cal Bowdler,17,ATL,Old Dominion
+1999,poseyja01,James Posey,18,DEN,Xavier
+1999,lewisqu01,Quincy Lewis,19,UTA,Minnesota
+1999,glovedi01,Dion Glover,20,ATL,Georgia Tech
+1999,fosteje01,Jeff Foster,21,GSW,Texas State University
+1999,thomake01,Kenny Thomas,22,HOU,New Mexico
+1999,georgde01,Devean George,23,LAL,Augsburg College
+1999,kirilan01,Andrei Kirilenko,24,UTA,
+1999,jamesti01,Tim James,25,MIA,Miami (FL)
+1999,cummivo01,Vonteego Cummings,26,IND,Pitt
+1999,jonesju01,Jumaine Jones,27,ATL,Georgia
+1999,padgesc01,Scott Padgett,28,UTA,Kentucky
+1999,smithle01,Leon Smith,29,SAS,
+1999,celesjo01,John Celestand,30,LAL,Villanova
+1999,hillri01,Rico Hill,31,LAC,Illinois State
+1999,ruffimi01,Michael Ruffin,32,CHI,Tulsa
+1999,herrech01,Chris Herren,33,DEN,Fresno State
+1999,eschmev01,Evan Eschmeyer,34,NJN,Northwestern
+1999,boothca01,Calvin Booth,35,WAS,Penn State
+1999,zhizhwa01,Wang Zhizhi,36,DAL,
+1999,ekeziob01,Obinna Ekezie,37,VAN,Maryland
+1999,profila01,Laron Profit,38,ORL,Maryland
+1999,bramlaj01,A.J. Bramlett,39,CLE,Arizona
+1999,giricgo01,Gordan Giriček,40,DAL,
+1999,elsonfr01,Francisco Elson,41,DEN,California
+1999,bullolo01,Louis Bullock,42,MIN,Michigan
+1999,nailole01,Lee Nailon,43,CHH,TCU
+1999,washity01,Tyrone Washington,44,HOU,Mississippi State
+1999,roberry01,Ryan Robertson,45,SAC,Kansas
+1999,kochjr01,J.R. Koch,46,NYK,Iowa
+1999,maccuto01,Todd MacCulloch,47,PHI,Washington
+1999,youngga01,Galen Young,48,MIL,UNC Charlotte
+1999,ketnela01,Lari Ketner,49,CHI,UMass
+1999,hamilve01,Venson Hamilton,50,HOU,Nebraska
+1999,smithan03,Antwain Smith,51,VAN,Saint Paul's College
+1999,bergero01,Roberto Bergersen,52,POR,Boise State
+1999,buforro01,Rodney Buford,53,MIA,Creighton
+1999,levetme01,Melvin Levett,54,DET,Cincinnati
+1999,clackkr01,Kris Clack,55,BOS,Texas
+1999,youngti01,Tim Young,56,GSW,Stanford
+1999,ginobma01,Manu Ginóbili,57,SAS,
+1999,lucased01,Eddie Lucas,58,UTA,Virginia Tech
+2000,martike01,Kenyon Martin,1,NJN,Cincinnati
+2000,swiftst01,Stromile Swift,2,VAN,LSU
+2000,milesda01,Darius Miles,3,LAC,
+2000,fizerma01,Marcus Fizer,4,CHI,Iowa State
+2000,millemi01,Mike Miller,5,ORL,Florida
+2000,johnsde03,DerMarr Johnson,6,ATL,Cincinnati
+2000,mihmch01,Chris Mihm,7,CHI,Texas
+2000,crawfja01,Jamal Crawford,8,CLE,Michigan
+2000,przybjo01,Joel Przybilla,9,HOU,Minnesota
+2000,doolike01,Keyon Dooling,10,ORL,Missouri
+2000,moisoje01,Jérôme Moïso,11,BOS,UCLA
+2000,thomaet01,Etan Thomas,12,DAL,Syracuse
+2000,alexaco02,Courtney Alexander,13,ORL,Fresno State
+2000,cleavma01,Mateen Cleaves,14,DET,Michigan State
+2000,collija02,Jason Collier,15,MIL,Georgia Tech
+2000,turkohe01,Hedo Türkoğlu,16,SAC,
+2000,masonde01,Desmond Mason,17,SEA,Oklahoma State
+2000,richaqu01,Quentin Richardson,18,LAC,DePaul
+2000,magloja01,Jamaal Magloire,19,CHH,Kentucky
+2000,claxtsp01,Speedy Claxton,20,PHI,Hofstra
+2000,petermo01,Morris Peterson,21,TOR,Michigan State
+2000,harvedo01,Donnell Harvey,22,NYK,Florida
+2000,stevede01,DeShawn Stevenson,23,UTA,
+2000,bagarda01,Dalibor Bagarić,24,CHI,
+2000,tsakaja01,Jake Tsakalidis,25,PHO,
+2000,ndiayma02,Mamadou N'Diaye,26,DEN,Auburn
+2000,brezepr01,Primož Brezec,27,IND,
+2000,barkler01,Erick Barkley,28,POR,St. John's
+2000,madsema01,Mark Madsen,29,LAL,Stanford
+2000,jaricma01,Marko Jarić,30,LAC,
+2000,langhda01,Dan Langhi,31,DAL,Vanderbilt
+2000,guytoaj01,A.J. Guyton,32,CHI,Indiana
+2000,voskuja01,Jake Voskuhl,33,CHI,UConn
+2000,elamikh01,Khalid El-Amin,34,CHI,UConn
+2000,smithmi03,Mike Smith,35,WAS,Louisiana-Monroe
+2000,samakso01,Soumaila Samake,36,NJN,
+2000,houseed01,Eddie House,37,MIA,Arizona State
+2000,najered01,Eduardo Nájera,38,HOU,Oklahoma
+2000,postela01,Lavor Postell,39,NYK,St. John's
+2000,mottoha01,Hanno Möttölä,40,ATL,Utah
+2000,carrach01,Chris Carrawell,41,SAS,Duke
+2000,oyedeol01,Olumide Oyedeji,42,SEA,
+2000,reddmi01,Michael Redd,43,MIL,Ohio State
+2000,cardibr01,Brian Cardinal,44,DET,Purdue
+2000,smithja01,Jabari Smith,45,SAC,LSU
+2000,huletde01,DeeAndre Hulett,46,TOR,College of the Sequoias
+2000,sesarjo01,Josip Sesar,47,SEA,
+2000,karchma01,Mark Karcher,48,PHI,Temple
+2000,hartja01,Jason Hart,49,MIL,Syracuse
+2000,dickeka01,Kaniel Dickens,50,UTA,Idaho
+2000,rakocig01,Igor Rakočević,51,MIN,
+2000,browner01,Ernest Brown,52,MIA,Indian Hills Community College
+2000,mcclida01,Dan McClintock,53,DEN,Northern Arizona University
+2000,hightco01,Cory Hightower,54,SAS,Indian Hills Community College
+2000,portech01,Chris Porter,55,GSW,Auburn
+2000,wallsja01,Jaquay Walls,56,IND,Colorado
+2000,pennsc01,Scoonie Penn,57,ATL,Ohio State
+2000,mickepe01,Pete Mickeal,58,DAL,Cincinnati
+2001,brownkw01,Kwame Brown,1,WAS,
+2001,chandty01,Tyson Chandler,2,LAC,
+2001,gasolpa01,Pau Gasol,3,ATL,
+2001,curryed01,Eddy Curry,4,CHI,
+2001,richaja01,Jason Richardson,5,GSW,Michigan State
+2001,battish01,Shane Battier,6,MEM,Duke
+2001,griffed01,Eddie Griffin,7,NJN,Seton Hall
+2001,diopde01,DeSagana Diop,8,CLE,
+2001,whitero02,Rodney White,9,DET,UNC Charlotte
+2001,johnsjo02,Joe Johnson,10,BOS,Arkansas
+2001,brownke01,Kedrick Brown,11,BOS,Okaloosa-Walton Community College
+2001,radmavl01,Vladimir Radmanović,12,SEA,
+2001,jefferi01,Richard Jefferson,13,HOU,Arizona
+2001,murphtr01,Troy Murphy,14,GSW,Notre Dame
+2001,huntest01,Steven Hunter,15,ORL,DePaul
+2001,hastoki01,Kirk Haston,16,CHH,Indiana
+2001,bradlmi01,Michael Bradley,17,TOR,Villanova
+2001,collija04,Jason Collins,18,HOU,Stanford
+2001,randoza01,Zach Randolph,19,POR,Michigan State
+2001,haywobr01,Brendan Haywood,20,CLE,UNC
+2001,fortejo01,Joseph Forte,21,BOS,UNC
+2001,sasseje01,Jeryl Sasser,22,ORL,SMU
+2001,armstbr01,Brandon Armstrong,23,HOU,Pepperdine
+2001,lopezra01,Raül López,24,UTA,
+2001,wallage01,Gerald Wallace,25,SAC,Alabama
+2001,dalemsa01,Samuel Dalembert,26,PHI,Seton Hall
+2001,tinslja01,Jamaal Tinsley,27,MEM,Iowa State
+2001,parketo01,Tony Parker,28,SAS,
+2001,hassetr01,Trenton Hassell,30,CHI,Austin Peay State University
+2001,arenagi01,Gilbert Arenas,31,GSW,Arizona
+2001,cookom01,Omar Cook,32,ORL,St. John's
+2001,solomwi01,Will Solomon,33,MEM,Clemson
+2001,morrite01,Terence Morris,34,ATL,Maryland
+2001,scalabr01,Brian Scalabrine,35,NJN,USC
+2001,trepaje01,Jeff Trepagnier,36,CLE,USC
+2001,brownda02,Damone Brown,37,PHI,Syracuse
+2001,okurme01,Mehmet Okur,38,DET,
+2001,wrighmi01,Michael Wright,39,NYK,Arizona
+2001,watsoea01,Earl Watson,40,SEA,UCLA
+2001,breweja01,Jamison Brewer,41,IND,Auburn
+2001,simmobo01,Bobby Simmons,42,SEA,DePaul
+2001,chenoer01,Eric Chenowith,43,NYK,Kansas
+2001,hillky01,Kyle Hill,44,DAL,Eastern Illinois University
+2001,lamplse01,Sean Lampley,45,CHI,California
+2001,woodslo01,Loren Woods,46,MIN,Arizona
+2001,cisseou01,Ousmane Cisse,47,DEN,
+2001,fotsian01,Antonis Fotsis,48,MEM,
+2001,johnske03,Ken Johnson,49,MIA,Ohio State
+2001,boumtru01,Ruben Boumtje-Boumtje,50,POR,Georgetown
+2001,fordal02,Alton Ford,51,PHO,Houston
+2001,hutsoan01,Andre Hutson,52,MIL,Michigan State
+2001,collija03,Jarron Collins,53,UTA,Stanford
+2001,satteke01,Kenny Satterfield,54,DAL,Cincinnati
+2001,jeffema01,Maurice Jeffers,55,SAC,Saint Louis
+2001,javtoro01,Robertas Javtokas,56,SAS,
+2001,jonesal01,Alvin Jones,57,PHI,Georgia Tech
+2001,bracebr01,Bryan Bracey,58,SAS,Oregon
+2002,mingya01,Yao Ming,1,HOU,
+2002,willija03,Jay Williams,2,CHI,Duke
+2002,dunlemi02,Mike Dunleavy,3,GSW,Duke
+2002,goodedr01,Drew Gooden,4,MEM,Kansas
+2002,tskitni01,Nikoloz Tskitishvili,5,DEN,
+2002,wagneda02,Dajuan Wagner,6,CLE,Memphis
+2002,hilarne01,Nenê,7,NYK,
+2002,wilcoch01,Chris Wilcox,8,LAC,Maryland
+2002,stoudam01,Amar'e Stoudemire,9,PHO,
+2002,butleca01,Caron Butler,10,MIA,UConn
+2002,jeffrja01,Jared Jeffries,11,WAS,Indiana
+2002,elyme01,Melvin Ely,12,LAC,Fresno State
+2002,haislma01,Marcus Haislip,13,MIL,Tennessee
+2002,jonesfr01,Fred Jones,14,IND,Oregon
+2002,nachbbo01,Boštjan Nachbar,15,HOU,
+2002,welscji01,Jiří Welsch,16,PHI,
+2002,dixonju01,Juan Dixon,17,WAS,Maryland
+2002,borchcu01,Curtis Borchardt,18,ORL,Stanford
+2002,humphry01,Ryan Humphrey,19,UTA,Notre Dame
+2002,rushka01,Kareem Rush,20,TOR,Missouri
+2002,woodsqy01,Qyntel Woods,21,POR,Northeast Mississippi Community College
+2002,jacobca01,Casey Jacobsen,22,PHO,Stanford
+2002,princta01,Tayshaun Prince,23,DET,Kentucky
+2002,krstine01,Nenad Krstić,24,NJN,
+2002,willifr02,Frank Williams,25,DEN,Illinois
+2002,salmojo01,John Salmons,26,SAS,Miami (FL)
+2002,jeffech01,Chris Jefferies,27,LAL,Fresno State
+2002,dickada01,Dan Dickau,28,SAC,Gonzaga
+2002,loganst01,Steve Logan,30,GSW,Cincinnati
+2002,masonro01,Roger Mason,31,CHI,Virginia
+2002,archiro01,Robert Archibald,32,MEM,Illinois
+2002,yarbrvi01,Vincent Yarbrough,33,DEN,Tennessee
+2002,gadzuda01,Dan Gadzuric,34,MIL,UCLA
+2002,boozeca01,Carlos Boozer,35,CLE,Duke
+2002,vujanmi01,Milos Vujanic,36,NYK,
+2002,anderda03,David Andersen,37,ATL,
+2002,maddoti01,Tito Maddox,38,HOU,Fresno State
+2002,grizzro01,Rod Grizzard,39,WAS,Alabama
+2002,navarju01,Juan Carlos Navarro,40,WAS,
+2002,kasunma01,Mario Kasun,41,LAC,
+2002,murraro01,Ronald Murray,42,MIL,Shaw
+2002,jennija01,Jason Jennings,43,POR,Arkansas State University
+2002,baxtelo01,Lonny Baxter,44,CHI,Maryland
+2002,clancsa02,Sam Clancy,45,PHI,USC
+2002,barnema02,Matt Barnes,46,MEM,UCLA
+2002,sampsja01,Jamal Sampson,47,UTA,California
+2002,owensch01,Chris Owens,48,MIL,Texas
+2002,fehsepe01,Peter Fehse,49,SEA,
+2002,songada01,Darius Songaila,50,BOS,Wake Forest
+2002,kammefe01,Federico Kammerichs,51,POR,
+2002,tayloma03,Marcus Taylor,52,MIN,Michigan State
+2002,butlera01,Rasual Butler,53,MIA,La Salle
+2002,slayta01,Tamar Slay,54,NJN,Marshall
+2002,sekulml01,Mladen Sekularac,55,DAL,
+2002,scolalu01,Luis Scola,56,SAS,
+2002,holcora01,Randy Holcomb,57,SAS,San Diego State
+2002,edwarco01,Corsley Edwards,58,SAC,Central Connecticut State University
+2003,jamesle01,LeBron James,1,CLE,
+2003,milicda01,Darko Miličić,2,DET,
+2003,anthoca01,Carmelo Anthony,3,DEN,Syracuse
+2003,boshch01,Chris Bosh,4,TOR,Georgia Tech
+2003,wadedw01,Dwyane Wade,5,MIA,Marquette
+2003,kamanch01,Chris Kaman,6,LAC,Central Michigan University
+2003,hinriki01,Kirk Hinrich,7,CHI,Kansas
+2003,fordtj01,T.J. Ford,8,MIL,Texas
+2003,sweetmi01,Mike Sweetney,9,NYK,Georgetown
+2003,hayesja01,Jarvis Hayes,10,WAS,Georgia
+2003,pietrmi01,Mickaël Piétrus,11,GSW,
+2003,collini01,Nick Collison,12,SEA,Kansas
+2003,banksma01,Marcus Banks,13,MEM,UNLV
+2003,ridnolu01,Luke Ridnour,14,SEA,Oregon
+2003,gainere01,Reece Gaines,15,ORL,Louisville
+2003,belltr01,Troy Bell,16,BOS,Boston College
+2003,cabarza01,Žarko Čabarkapa,17,PHO,
+2003,westda01,David West,18,NOH,Xavier
+2003,pavloal01,Sasha Pavlović,19,UTA,
+2003,jonesda02,Dahntay Jones,20,BOS,Duke
+2003,diawbo01,Boris Diaw,21,ATL,
+2003,planizo01,Zoran Planinić,22,NJN,
+2003,outlatr01,Travis Outlaw,23,POR,
+2003,cookbr01,Brian Cook,24,LAL,Illinois
+2003,delfica01,Carlos Delfino,25,DET,
+2003,ebind01,Ndudi Ebi,26,MIN,
+2003,perkike01,Kendrick Perkins,27,MEM,
+2003,barbole01,Leandro Barbosa,28,SAS,
+2003,howarjo01,Josh Howard,29,DAL,Wake Forest
+2003,lampema01,Maciej Lampe,30,NYK,
+2003,kaponja01,Jason Kapono,31,CLE,UCLA
+2003,waltolu01,Luke Walton,32,LAL,Arizona
+2003,beaslje01,Jerome Beasley,33,MIA,University of North Dakota
+2003,schorso01,Sofoklis Schortsanitis,34,LAC,
+2003,szewcsz01,Szymon Szewczyk,35,MIL,
+2003,austima01,Mario Austin,36,CHI,Mississippi State
+2003,hansetr01,Travis Hansen,37,ATL,BYU
+2003,blakest01,Steve Blake,38,WAS,Maryland
+2003,vranesl01,Slavko Vraneš,39,NYK,
+2003,zimmede01,Derrick Zimmerman,40,GSW,Mississippi State
+2003,greenwi01,Willie Green,41,SEA,Detroit Mercy
+2003,pachuza01,Zaza Pachulia,42,ORL,
+2003,boganke01,Keith Bogans,43,MIL,Kentucky
+2003,badiama01,Malick Badiane,44,HOU,
+2003,bonnema01,Matt Bonner,45,CHI,Florida
+2003,becirsa01,Sani Bečirovič,46,DEN,
+2003,willima01,Mo Williams,47,UTA,Alabama
+2003,langja01,James Lang,48,NOH,
+2003,jonesja02,James Jones,49,IND,Miami (FL)
+2003,morlepa01,Paccelis Morlende,50,PHI,
+2003,korveky01,Kyle Korver,51,NJN,Creighton
+2003,vandera01,Remon van de Hare,52,TOR,
+2003,smithto03,Tommy Smith,53,CHI,Arizona State
+2003,sinanne01,Nedžad Sinanović,54,POR,
+2003,rickeri01,Rick Rickert,55,MIN,Minnesota
+2003,huntebr01,Brandon Hunter,56,BOS,Ohio University
+2003,yuyanxu01,Xue Yuyang,57,DAL,
+2003,glynian01,Andreas Glyniadakis,58,DET,
+2004,howardw01,Dwight Howard,1,ORL,
+2004,okafoem01,Emeka Okafor,2,CHA,UConn
+2004,gordobe01,Ben Gordon,3,CHI,UConn
+2004,livinsh01,Shaun Livingston,4,LAC,
+2004,harride01,Devin Harris,5,WAS,Wisconsin
+2004,childjo01,Josh Childress,6,ATL,Stanford
+2004,denglu01,Luol Deng,7,PHO,Duke
+2004,araujra01,Rafael Araújo,8,TOR,BYU
+2004,iguodan01,Andre Iguodala,9,PHI,Arizona
+2004,jackslu02,Luke Jackson,10,CLE,Oregon
+2004,biedran01,Andris Biedriņš,11,GSW,
+2004,swiftro01,Robert Swift,12,SEA,
+2004,telfase01,Sebastian Telfair,13,POR,
+2004,humphkr01,Kris Humphries,14,UTA,Minnesota
+2004,jeffeal01,Al Jefferson,15,BOS,
+2004,snydeki01,Kirk Snyder,16,UTA,Nevada
+2004,smithjo03,Josh Smith,17,ATL,
+2004,smithjr01,J.R. Smith,18,NOH,
+2004,wrighdo01,Dorell Wright,19,MIA,
+2004,nelsoja01,Jameer Nelson,20,DEN,Saint Joseph's
+2004,podkopa01,Pavel Podkolzin,21,UTA,
+2004,khryavi01,Viktor Khryapa,22,NJN,
+2004,moniase01,Sergei Monia,23,POR,
+2004,westde01,Delonte West,24,BOS,Saint Joseph's
+2004,allento01,Tony Allen,25,BOS,Oklahoma State
+2004,martike02,Kevin Martin,26,SAC,Western Carolina University
+2004,vujacsa01,Sasha Vujačić,27,LAL,
+2004,udrihbe01,Beno Udrih,28,SAS,
+2004,harrida01,David Harrison,29,IND,Colorado
+2004,varejan01,Anderson Varejão,30,ORL,
+2004,vromaja01,Jackson Vroman,31,CHI,Iowa State
+2004,ramospe01,Peter John Ramos,32,WAS,
+2004,chalmli01,Lionel Chalmers,33,LAC,Xavier
+2004,smithdo04,Donta Smith,34,ATL,Southeastern Illinois College
+2004,emmetan01,Andre Emmett,35,SEA,Texas Tech
+2004,burksan01,Antonio Burks,36,ORL,Memphis
+2004,iveyro01,Royal Ivey,37,ATL,Texas
+2004,duhonch01,Chris Duhon,38,CHI,Duke
+2004,miralal01,Albert Miralles,39,TOR,
+2004,reedju01,Justin Reed,40,BOS,Ole Miss
+2004,youngda02,David Young,41,SEA,NC Central
+2004,sanikvi01,Viktor Sanikidze,42,ATL,
+2004,arizatr01,Trevor Ariza,43,NYK,UCLA
+2004,picketi02,Tim Pickett,44,NOH,Florida State
+2004,robinbe01,Bernard Robinson,45,CHA,Michigan
+2004,seungha01,Ha Seung-Jin,46,POR,
+2004,sowpa01,Pape Sow,47,MIA,Cal State Fullerton
+2004,minarri01,Ricky Minard,48,SAC,Morehead State University
+2004,lishcse01,Sergei Lishouk,49,MEM,
+2004,spanova01,Vassilis Spanoulis,50,DAL,
+2004,drejech01,Christian Drejer,51,NJN,Florida
+2004,satoro01,Romain Sato,52,SAS,Xavier
+2004,freijma01,Matt Freije,53,MIA,Vanderbilt
+2004,pauldri01,Rickey Paulding,54,DET,Missouri
+2004,florelu01,Luis Flores,55,HOU,Manhattan University
+2004,douthma01,Marcus Douthit,56,LAL,Providence
+2004,karause01,Sergei Karaulov,57,SAS,
+2004,steppbl01,Blake Stepp,58,MIN,Gonzaga
+2004,wrighra01,Rashad Wright,59,IND,Georgia
+2005,bogutan01,Andrew Bogut,1,MIL,Utah
+2005,willima02,Marvin Williams,2,ATL,UNC
+2005,willide01,Deron Williams,3,UTA,Illinois
+2005,paulch01,Chris Paul,4,NOH,Wake Forest
+2005,feltora01,Raymond Felton,5,CHA,UNC
+2005,webstma02,Martell Webster,6,POR,
+2005,villach01,Charlie Villanueva,7,TOR,UConn
+2005,fryech01,Channing Frye,8,NYK,Arizona
+2005,dioguik01,Ike Diogu,9,GSW,Arizona State
+2005,bynuman01,Andrew Bynum,10,LAL,
+2005,vazqufr01,Fran Vázquez,11,ORL,
+2005,korolya01,Yaroslav Korolev,12,LAC,
+2005,mayse01,Sean May,13,CHA,UNC
+2005,mccanra01,Rashad McCants,14,MIN,UNC
+2005,wrighan01,Antoine Wright,15,NJN,Texas A&M
+2005,grahajo01,Joey Graham,16,TOR,Oklahoma State
+2005,grangda01,Danny Granger,17,IND,New Mexico
+2005,greenge01,Gerald Green,18,BOS,
+2005,warriha01,Hakim Warrick,19,MEM,Syracuse
+2005,hodgeju01,Julius Hodge,20,DEN,NC State
+2005,robinna01,Nate Robinson,21,PHO,Washington
+2005,jackja01,Jarrett Jack,22,DEN,Georgia Tech
+2005,garcifr01,Francisco García,23,SAC,Louisville
+2005,headlu01,Luther Head,24,HOU,Illinois
+2005,petrojo01,Johan Petro,25,SEA,
+2005,maxieja01,Jason Maxiell,26,DET,Cincinnati
+2005,kleizli01,Linas Kleiza,27,POR,Missouri
+2005,mahinia01,Ian Mahinmi,28,SAS,
+2005,simiewa01,Wayne Simien,29,MIA,Kansas
+2005,leeda02,David Lee,30,NYK,Florida
+2005,stoudsa01,Salim Stoudamire,31,ATL,Arizona
+2005,ewingda01,Daniel Ewing,32,LAC,Duke
+2005,bassbr01,Brandon Bass,33,NOH,LSU
+2005,milescj01,C.J. Miles,34,UTA,
+2005,sanchri01,Ricky Sánchez,35,POR,
+2005,ilyaser01,Ersan İlyasova,36,MIL,
+2005,turiaro01,Ronny Turiaf,37,LAL,Gonzaga
+2005,dienetr01,Travis Diener,38,ORL,Marquette
+2005,wafervo01,Von Wafer,39,LAL,Florida State
+2005,ellismo01,Monta Ellis,40,GSW,
+2005,ukicro01,Roko Ukić,41,TOR,
+2005,taftch01,Chris Taft,42,GSW,Pitt
+2005,ilicmi01,Mile Ilić,43,NJN,
+2005,andrima01,Martynas Andriuškevičius,44,ORL,
+2005,willilo02,Lou Williams,45,PHI,
+2005,lorbeer01,Erazem Lorbek,46,IND,
+2005,wrighbr02,Bracey Wright,47,MIN,Indiana
+2005,gelabmi01,Mickaël Gelabale,48,SEA,
+2005,blatcan01,Andray Blatche,49,WAS,
+2005,gomesry01,Ryan Gomes,50,BOS,Providence
+2005,whalero01,Robert Whaley,51,UTA,Walsh University
+2005,herveax01,Axel Hervelle,52,DEN,
+2005,greenor01,Orien Greene,53,BOS,Louisiana
+2005,thompdi01,Dijon Thompson,54,NYK,UCLA
+2005,roberla01,Lawrence Roberts,55,SEA,Mississippi State
+2005,johnsam01,Amir Johnson,56,DET,
+2005,gortama01,Marcin Gortat,57,PHO,
+2005,slokaur01,Uroš Slokar,58,TOR,
+2005,akyolce01,Cenk Akyol,59,ATL,
+2005,ackeral01,Alex Acker,60,DET,Pepperdine
+2006,bargnan01,Andrea Bargnani,1,TOR,
+2006,aldrila01,LaMarcus Aldridge,2,CHI,Texas
+2006,morriad01,Adam Morrison,3,CHA,Gonzaga
+2006,thomaty01,Tyrus Thomas,4,POR,LSU
+2006,willish02,Shelden Williams,5,ATL,Duke
+2006,roybr01,Brandon Roy,6,MIN,Washington
+2006,foyera01,Randy Foye,7,BOS,Villanova
+2006,gayru01,Rudy Gay,8,HOU,UConn
+2006,obryapa01,Patrick O'Bryant,9,GSW,Bradley
+2006,senesa01,Mouhamed Sene,10,SEA,
+2006,redicjj01,JJ Redick,11,ORL,Duke
+2006,armsthi01,Hilton Armstrong,12,NOK,UConn
+2006,sefolth01,Thabo Sefolosha,13,PHI,
+2006,brewero02,Ronnie Brewer,14,UTA,Arkansas
+2006,simmoce01,Cedric Simmons,15,NOK,NC State
+2006,carnero01,Rodney Carney,16,CHI,Memphis
+2006,willish03,Shawne Williams,17,IND,Memphis
+2006,pecheol01,Oleksiy Pecherov,18,WAS,
+2006,doubyqu01,Quincy Douby,19,SAC,Rutgers University
+2006,balkmre01,Renaldo Balkman,20,NYK,South Carolina
+2006,rondora01,Rajon Rondo,21,PHO,Kentucky
+2006,willima03,Marcus Williams,22,NJN,UConn
+2006,boonejo01,Josh Boone,23,NJN,UConn
+2006,lowryky01,Kyle Lowry,24,MEM,Villanova
+2006,brownsh01,Shannon Brown,25,CLE,Michigan State
+2006,farmajo01,Jordan Farmar,26,LAL,UCLA
+2006,rodrise01,Sergio Rodríguez,27,PHO,
+2006,agerma01,Maurice Ager,28,DAL,Michigan State
+2006,collima01,Mardy Collins,29,NYK,Temple
+2006,freeljo01,Joel Freeland,30,POR,
+2006,whiteja02,James White,31,POR,Cincinnati
+2006,novakst01,Steve Novak,32,HOU,Marquette
+2006,jonesso01,Solomon Jones,33,ATL,South Florida
+2006,davispa01,Paul Davis,34,LAC,Michigan State
+2006,tuckepj01,P.J. Tucker,35,TOR,Texas
+2006,smithcr01,Craig Smith,36,MIN,Boston College
+2006,jonesbo02,Bobby Jones,37,MIN,Washington
+2006,perovko01,Kosta Perović,38,GSW,
+2006,noelda01,David Noel,39,MIL,UNC
+2006,brownde05,Denham Brown,40,SEA,UConn
+2006,augusja01,James Augustine,41,ORL,Illinois
+2006,gibsoda01,Daniel Gibson,42,CLE,Texas
+2006,vincima01,Marcus Vinicius,43,NOK,
+2006,eliyali01,Lior Eliyahu,44,ORL,
+2006,johnsal01,Alexander Johnson,45,IND,Florida State
+2006,brownde03,Dee Brown,46,UTA,Illinois
+2006,millspa01,Paul Millsap,47,UTA,Louisiana Tech
+2006,veremvl01,Vladimir Veremeenko,48,WAS,
+2006,powele01,Leon Powe,49,DEN,California
+2006,holliry01,Ryan Hollins,50,CHA,UCLA
+2006,sambch01,Cheikh Samb,51,LAL,
+2006,diazgu01,Guillermo Díaz,52,LAC,Miami (FL)
+2006,halpeyo01,Yotam Halperin,53,SEA,
+2006,adamsha01,Hassan Adams,54,NJN,Arizona
+2006,ugboaej01,Ejike Ugboaja,55,CLE,
+2006,bavcied01,Edin Bavčić,56,TOR,
+2006,mavrolo01,Loukas Mavrokefalidis,57,MIN,
+2006,pinnojr01,J.R. Pinnock,58,DAL,George Washington
+2006,markoda01,Damir Markota,59,SAS,
+2006,blalowi01,Will Blalock,60,DET,Iowa State
+2007,odengr01,Greg Oden,1,POR,Ohio State
+2007,duranke01,Kevin Durant,2,SEA,Texas
+2007,horfoal01,Al Horford,3,ATL,Florida
+2007,conlemi01,Mike Conley,4,MEM,Ohio State
+2007,greenje02,Jeff Green,5,BOS,Georgetown
+2007,jianlyi01,Yi Jianlian,6,MIL,
+2007,breweco01,Corey Brewer,7,MIN,Florida
+2007,wrighbr03,Brandan Wright,8,CHA,UNC
+2007,noahjo01,Joakim Noah,9,CHI,Florida
+2007,hawessp01,Spencer Hawes,10,SAC,Washington
+2007,lawac01,Acie Law,11,ATL,Texas A&M
+2007,youngth01,Thaddeus Young,12,PHI,Georgia Tech
+2007,wrighju01,Julian Wright,13,NOK,Kansas
+2007,thornal01,Al Thornton,14,LAC,Florida State
+2007,stuckro01,Rodney Stuckey,15,DET,Eastern Washington
+2007,youngni01,Nick Young,16,WAS,USC
+2007,willise01,Sean Williams,17,NJN,Boston College
+2007,belinma01,Marco Belinelli,18,GSW,
+2007,crittja01,Javaris Crittenton,19,LAL,Georgia Tech
+2007,smithja02,Jason Smith,20,MIA,Colorado State
+2007,cookda02,Daequan Cook,21,PHI,Ohio State
+2007,dudleja01,Jared Dudley,22,CHA,Boston College
+2007,chandwi01,Wilson Chandler,23,NYK,DePaul
+2007,fernaru01,Rudy Fernández,24,PHO,
+2007,almonmo01,Morris Almond,25,UTA,Rice University
+2007,brookaa01,Aaron Brooks,26,HOU,Oregon
+2007,afflaar01,Arron Afflalo,27,DET,UCLA
+2007,splitti01,Tiago Splitter,28,SAS,
+2007,tuckeal02,Alando Tucker,29,PHO,Wisconsin
+2007,koponpe01,Petteri Koponen,30,PHI,
+2007,landrca01,Carl Landry,31,SEA,Purdue
+2007,pruitga01,Gabe Pruitt,32,BOS,USC
+2007,willima04,Marcus Williams,33,SAS,Arizona
+2007,fazekni01,Nick Fazekas,34,DAL,Nevada
+2007,davisgl01,Glen Davis,35,SEA,LSU
+2007,davidje01,Jermareo Davidson,36,GSW,Alabama
+2007,mcrobjo01,Josh McRoberts,37,POR,Duke
+2007,fesenky01,Kyrylo Fesenko,38,PHI,
+2007,baracst01,Stanko Barać,39,MIA,
+2007,yuesu01,Sun Yue,40,LAL,
+2007,richach01,Chris Richard,41,MIN,Florida
+2007,byarsde01,Derrick Byars,42,POR,Vanderbilt
+2007,halusad02,Adam Haluska,43,NOK,Iowa
+2007,terryre01,Reyshawn Terry,44,ORL,UNC
+2007,jordaja01,Jared Jordan,45,LAC,Marist College
+2007,lasmest01,Stéphane Lasme,46,GSW,UMass
+2007,mcguido01,Dominic McGuire,47,WAS,Fresno State
+2007,gasolma01,Marc Gasol,48,LAL,
+2007,grayaa01,Aaron Gray,49,CHI,Pitt
+2007,seibure01,Renaldas Seibutis,50,DAL,
+2007,curryja01,JamesOn Curry,51,CHI,Oklahoma State
+2007,greenta01,Taurean Green,52,POR,Florida
+2007,nichode01,Demetris Nichols,53,POR,Syracuse
+2007,newlebr01,Brad Newley,54,HOU,
+2007,hillhe02,Herbert Hill,55,UTA,Providence
+2007,sessira01,Ramon Sessions,56,MIL,Nevada
+2007,mejiasa01,Sammy Mejia,57,DET,DePaul
+2007,printgi01,Georgios Printezis,58,SAS,
+2007,strawdj01,D.J. Strawberry,59,PHO,Maryland
+2007,rakovmi01,Milovan Raković,60,DAL,
+2008,rosede01,Derrick Rose,1,CHI,Memphis
+2008,beaslmi01,Michael Beasley,2,MIA,Kansas State
+2008,mayooj01,O.J. Mayo,3,MIN,USC
+2008,westbru01,Russell Westbrook,4,SEA,UCLA
+2008,loveke01,Kevin Love,5,MEM,UCLA
+2008,gallida01,Danilo Gallinari,6,NYK,
+2008,gordoer01,Eric Gordon,7,LAC,Indiana
+2008,alexajo01,Joe Alexander,8,MIL,West Virginia
+2008,augusdj01,D.J. Augustin,9,CHA,Texas
+2008,lopezbr01,Brook Lopez,10,NJN,Stanford
+2008,bayleje01,Jerryd Bayless,11,IND,Arizona
+2008,thompja02,Jason Thompson,12,SAC,Rider University
+2008,rushbr01,Brandon Rush,13,POR,Kansas
+2008,randoan01,Anthony Randolph,14,GSW,LSU
+2008,lopezro01,Robin Lopez,15,PHO,Stanford
+2008,speigma01,Marreese Speights,16,PHI,Florida
+2008,hibbero01,Roy Hibbert,17,TOR,Georgetown
+2008,mcgeeja01,JaVale McGee,18,WAS,Nevada
+2008,hicksjj01,J.J. Hickson,19,CLE,NC State
+2008,ajincal01,Alexis Ajinça,20,CHA,
+2008,anderry01,Ryan Anderson,21,NJN,California
+2008,leeco01,Courtney Lee,22,ORL,Western Kentucky
+2008,koufoko01,Kosta Koufos,23,UTA,Ohio State
+2008,ibakase01,Serge Ibaka,24,SEA,
+2008,batumni01,Nicolas Batum,25,HOU,
+2008,hillge01,George Hill,26,SAS,IUPUI
+2008,arthuda01,Darrell Arthur,27,NOH,Kansas
+2008,greendo01,Donté Greene,28,MEM,Syracuse
+2008,whitedj01,D.J. White,29,DET,Indiana
+2008,giddejr01,J.R. Giddens,30,BOS,New Mexico
+2008,pekovni01,Nikola Peković,31,MIN,
+2008,sharpwa01,Walter Sharpe,32,SEA,UAB
+2008,dorsejo01,Joey Dorsey,33,POR,Memphis
+2008,chalmma01,Mario Chalmers,34,MIN,Kansas
+2008,jordade01,DeAndre Jordan,35,LAC,Texas A&M
+2008,asikom01,Ömer Aşık,36,POR,
+2008,mbahalu01,Luc Mbah a Moute,37,MIL,UCLA
+2008,weaveky01,Kyle Weaver,38,CHA,Washington State
+2008,weemsso01,Sonny Weems,39,CHI,Arkansas
+2008,douglch01,Chris Douglas-Roberts,40,NJN,Memphis
+2008,jawaina01,Nathan Jawai,41,IND,
+2008,singlse01,Sean Singletary,42,SAC,Virginia
+2008,ewingpa02,Patrick Ewing,43,SAC,Georgetown
+2008,tomican01,Ante Tomić,44,UTA,
+2008,dragigo01,Goran Dragić,45,SAS,
+2008,plaistr01,Trent Plaisted,46,SEA,BYU
+2008,walkebi01,Henry Walker,47,WAS,Kansas State
+2008,hairsma01,Malik Hairston,48,PHO,Oregon
+2008,hendrri02,Richard Hendrix,49,GSW,Alabama
+2008,hardide01,DeVon Hardin,50,SEA,California
+2008,fostesh01,Shan Foster,51,DAL,Vanderbilt
+2008,jacksda01,Darnell Jackson,52,MIA,Kansas
+2008,dragita01,Tadija Dragićević,53,UTA,
+2008,leunema01,Maarty Leunen,54,HOU,Oregon
+2008,taylomi01,Mike Taylor,55,POR,Iowa State
+2008,kaunsa01,Sasha Kaun,56,SEA,Kansas
+2008,gistja01,James Gist,57,SAS,Maryland
+2008,crawfjo01,Joe Crawford,58,LAL,Kentucky
+2008,washide02,Deron Washington,59,DET,Virginia Tech
+2008,erdense01,Semih Erden,60,BOS,
+2009,griffbl01,Blake Griffin,1,LAC,Oklahoma
+2009,thabeha01,Hasheem Thabeet,2,MEM,UConn
+2009,hardeja01,James Harden,3,OKC,Arizona State
+2009,evansty01,Tyreke Evans,4,SAC,Memphis
+2009,rubiori01,Ricky Rubio,5,MIN,
+2009,flynnjo01,Jonny Flynn,6,MIN,Syracuse
+2009,curryst01,Stephen Curry,7,GSW,Davidson
+2009,hilljo01,Jordan Hill,8,NYK,Arizona
+2009,derozde01,DeMar DeRozan,9,TOR,USC
+2009,jennibr01,Brandon Jennings,10,MIL,
+2009,willite01,Terrence Williams,11,NJN,Louisville
+2009,hendege02,Gerald Henderson,12,CHA,Duke
+2009,hansbty01,Tyler Hansbrough,13,IND,UNC
+2009,clarkea01,Earl Clark,14,PHO,Louisville
+2009,dayeau01,Austin Daye,15,DET,Gonzaga
+2009,johnsja01,James Johnson,16,CHI,Wake Forest
+2009,holidjr01,Jrue Holiday,17,PHI,UCLA
+2009,lawsoty01,Ty Lawson,18,MIN,UNC
+2009,teaguje01,Jeff Teague,19,ATL,Wake Forest
+2009,maynoer01,Eric Maynor,20,UTA,VCU
+2009,collida01,Darren Collison,21,NOH,UCLA
+2009,clavevi01,Víctor Claver,22,POR,
+2009,casspom01,Omri Casspi,23,SAC,
+2009,mulleby01,Byron Mullens,24,DAL,Ohio State
+2009,beaubro01,Rodrigue Beaubois,25,OKC,
+2009,gibsota01,Taj Gibson,26,CHI,USC
+2009,carrode01,DeMarre Carroll,27,MEM,Missouri
+2009,ellinwa01,Wayne Ellington,28,MIN,UNC
+2009,douglto01,Toney Douglas,29,LAL,Florida State
+2009,eyengch01,Christian Eyenga,30,CLE,
+2009,pendeje02,Jeff Ayres,31,SAC,Arizona State
+2009,tayloje02,Jermaine Taylor,32,WAS,Central Florida
+2009,cunnida01,Dante Cunningham,33,POR,Villanova
+2009,llullse01,Sergio Llull,34,DEN,
+2009,summeda01,DaJuan Summers,35,DET,Georgetown
+2009,youngsa01,Sam Young,36,MEM,Pitt
+2009,blairde01,DeJuan Blair,37,SAS,Pitt
+2009,brockjo01,Jon Brockman,38,POR,Washington
+2009,jerebjo01,Jonas Jerebko,39,DET,
+2009,brownde04,Derrick Brown,40,CHA,Xavier
+2009,meeksjo01,Jodie Meeks,41,MIL,Kentucky
+2009,beverpa01,Patrick Beverley,42,LAL,Arkansas
+2009,thornma01,Marcus Thornton,43,MIA,LSU
+2009,budinch01,Chase Budinger,44,DET,Arizona
+2009,calatni01,Nick Calathes,45,MIN,Florida
+2009,greenda02,Danny Green,46,CLE,UNC
+2009,norelhe01,Henk Norel,47,MIN,
+2009,griffta01,Taylor Griffin,48,PHO,Oklahoma
+2009,gladyse01,Sergiy Gladyr,49,ATL,
+2009,sutongo01,Goran Suton,50,UTA,Michigan State
+2009,mcclija01,Jack McClinton,51,SAS,Miami (FL)
+2009,priceaj01,A.J. Price,52,IND,UConn
+2009,decolna01,Nando De Colo,53,SAS,
+2009,vadenro01,Robert Vaden,54,CHA,UAB
+2009,millspa02,Patty Mills,55,POR,Saint Mary's
+2009,nivinah01,Ahmad Nivins,56,DAL,Saint Joseph's
+2009,preldem01,Emir Preldžić,57,PHO,
+2009,hudsole01,Lester Hudson,58,BOS,University of Tennessee at Martin
+2009,elonuch01,Chinemelu Elonu,59,LAL,Texas A&M
+2009,doziero01,Robert Dozier,60,MIA,Memphis
+2010,walljo01,John Wall,1,WAS,Kentucky
+2010,turneev01,Evan Turner,2,PHI,Ohio State
+2010,favorde01,Derrick Favors,3,NJN,Georgia Tech
+2010,johnswe01,Wesley Johnson,4,MIN,Syracuse
+2010,couside01,DeMarcus Cousins,5,SAC,Kentucky
+2010,udohek01,Ekpe Udoh,6,GSW,Baylor
+2010,monrogr01,Greg Monroe,7,DET,Georgetown
+2010,aminual01,Al-Farouq Aminu,8,LAC,Wake Forest
+2010,haywago01,Gordon Hayward,9,UTA,Butler
+2010,georgpa01,Paul George,10,IND,Fresno State
+2010,aldrico01,Cole Aldrich,11,NOH,Kansas
+2010,henryxa01,Xavier Henry,12,MEM,Kansas
+2010,davised01,Ed Davis,13,TOR,UNC
+2010,pattepa01,Patrick Patterson,14,HOU,Kentucky
+2010,sandela01,Larry Sanders,15,MIL,VCU
+2010,babbilu01,Luke Babbitt,16,MIN,Nevada
+2010,serapke01,Kevin Séraphin,17,CHI,
+2010,bledser01,Eric Bledsoe,18,OKC,Kentucky
+2010,bradlav01,Avery Bradley,19,BOS,Texas
+2010,anderja01,James Anderson,20,SAS,Oklahoma State
+2010,brackcr01,Craig Brackins,21,OKC,Iowa State
+2010,williel01,Elliot Williams,22,POR,Memphis
+2010,booketr01,Trevor Booker,23,MIN,Clemson
+2010,jamesda01,Damion James,24,ATL,Texas
+2010,jonesdo02,Dominique Jones,25,MEM,South Florida
+2010,pondequ01,Quincy Pondexter,26,OKC,Washington
+2010,crawfjo02,Jordan Crawford,27,NJN,Xavier
+2010,vasqugr01,Greivis Vásquez,28,MEM,Maryland
+2010,ortonda01,Daniel Orton,29,ORL,Kentucky
+2010,haywala01,Lazar Hayward,30,WAS,Marquette
+2010,pleisti01,Tibor Pleiß,31,NJN,
+2010,pittmde01,Dexter Pittman,32,MIA,Texas
+2010,whiteha01,Hassan Whiteside,33,SAC,Marshall
+2010,johnsar02,Armon Johnson,34,POR,Nevada
+2010,bjeline01,Nemanja Bjelica,35,WAS,
+2010,whitete01,Terrico White,36,DET,Ole Miss
+2010,hobsoda01,Darington Hobson,37,MIL,New Mexico
+2010,rautian01,Andy Rautins,38,NYK,Syracuse
+2010,fieldla01,Landry Fields,39,NYK,Stanford
+2010,stephla01,Lance Stephenson,40,IND,Cincinnati
+2010,varnaja01,Jarvis Varnado,41,MIA,Mississippi State
+2010,butleda03,Da'Sean Butler,42,MIA,West Virginia
+2010,ebankde01,Devin Ebanks,43,LAL,West Virginia
+2010,jordaje01,Jerome Jordan,44,MIL,Tulsa
+2010,prestpa01,Paulão Prestes,45,MIN,
+2010,lawalga01,Gani Lawal,46,PHO,Georgia Tech
+2010,galloti01,Tiny Gallon,47,MIL,Oklahoma
+2010,willila01,Latavious Williams,48,MIA,
+2010,richary01,Ryan Richards,49,SAS,
+2010,alabiso01,Solomon Alabi,50,DAL,Florida State
+2010,rollema01,Magnum Rolle,51,OKC,Louisiana Tech
+2010,haranlu01,Luke Harangody,52,BOS,Notre Dame
+2010,sypa01,Pape Sy,53,ATL,
+2010,warrewi01,Willie Warren,54,LAC,Oklahoma
+2010,evansje01,Jeremy Evans,55,UTA,Western Kentucky
+2010,ndiayha01,Hamady N'Diaye,56,MIN,Rutgers University
+2010,reidry01,Ryan Reid,57,IND,Florida State
+2010,caracde01,Derrick Caracter,58,LAL,Texas-El Paso
+2010,robinst01,Stanley Robinson,59,ORL,UConn
+2010,collidw01,Dwayne Collins,60,PHO,Miami (FL)
+2011,irvinky01,Kyrie Irving,1,CLE,Duke
+2011,willide02,Derrick Williams,2,MIN,Arizona
+2011,kanteen01,Enes Freedom,3,UTA,
+2011,thomptr01,Tristan Thompson,4,CLE,Texas
+2011,valanjo01,Jonas Valančiūnas,5,TOR,
+2011,veselja01,Jan Veselý,6,WAS,
+2011,biyombi01,Bismack Biyombo,7,SAC,
+2011,knighbr03,Brandon Knight,8,DET,Kentucky
+2011,walkeke02,Kemba Walker,9,CHA,UConn
+2011,fredeji01,Jimmer Fredette,10,MIL,BYU
+2011,thompkl01,Klay Thompson,11,GSW,Washington State
+2011,burksal01,Alec Burks,12,UTA,Colorado
+2011,morrima02,Markieff Morris,13,PHO,Kansas
+2011,morrima03,Marcus Morris,14,HOU,Kansas
+2011,leonaka01,Kawhi Leonard,15,IND,San Diego State
+2011,vucevni01,Nikola Vučević,16,PHI,USC
+2011,shumpim01,Iman Shumpert,17,NYK,Georgia Tech
+2011,singlch01,Chris Singleton,18,WAS,Florida State
+2011,harrito02,Tobias Harris,19,CHA,Tennessee
+2011,motiedo01,Donatas Motiejūnas,20,MIN,
+2011,smithno01,Nolan Smith,21,POR,Duke
+2011,farieke01,Kenneth Faried,22,DEN,Morehead State University
+2011,mirotni01,Nikola Mirotić,23,HOU,
+2011,jacksre01,Reggie Jackson,24,OKC,Boston College
+2011,brookma01,MarShon Brooks,25,BOS,Providence
+2011,hamiljo02,Jordan Hamilton,26,DAL,Texas
+2011,johnsja02,JaJuan Johnson,27,NJN,Purdue
+2011,coleno01,Norris Cole,28,CHI,Cleveland State University
+2011,josepco01,Cory Joseph,29,SAS,Texas
+2011,butleji01,Jimmy Butler,30,CHI,Marquette
+2011,bogdabo02,Bojan Bogdanović,31,MIA,
+2011,harpeju01,Justin Harper,32,CLE,Richmond
+2011,singlky01,Kyle Singler,33,DET,Duke
+2011,macksh01,Shelvin Mack,34,WAS,Butler
+2011,honeyty01,Tyler Honeycutt,35,SAC,UCLA
+2011,willijo03,Jordan Williams,36,NJN,Maryland
+2011,thomptr02,Trey Thompkins,37,LAC,Georgia
+2011,parsoch01,Chandler Parsons,38,HOU,Florida
+2011,tylerje01,Jeremy Tyler,39,CHA,
+2011,leuerjo01,Jon Leuer,40,MIL,Wisconsin
+2011,morrida01,Darius Morris,41,LAL,Michigan
+2011,bertada01,Dāvis Bertāns,42,IND,
+2011,leema01,Malcolm Lee,43,CHI,UCLA
+2011,jenkich01,Charles Jenkins,44,GSW,Hofstra
+2011,harrejo01,Josh Harrellson,45,NOH,Kentucky
+2011,goudean01,Andrew Goudelock,46,LAL,College of Charleston
+2011,leslitr01,Travis Leslie,47,LAC,Georgia
+2011,bensoke02,Keith Benson,48,ATL,Oakland
+2011,selbyjo01,Josh Selby,49,MEM,Kansas
+2011,allenla01,Lavoy Allen,50,PHI,Temple
+2011,diebljo01,Jon Diebler,51,POR,Ohio State
+2011,macklve01,Vernon Macklin,52,DET,Florida
+2011,liggide01,DeAndre Liggins,53,ORL,Kentucky
+2011,macvami01,Milan Mačvan,54,CLE,
+2011,mooreet01,E'Twaun Moore,55,BOS,Purdue
+2011,maduach01,Chukwudiebere Maduabum,56,LAL,
+2011,ngombta01,Tanguy Ngombo,57,DAL,
+2011,majokat01,Ater Majok,58,LAL,
+2011,hangaad01,Ádám Hanga,59,SAS,
+2011,thomais02,Isaiah Thomas,60,SAC,Washington
+2012,davisan02,Anthony Davis,1,NOH,Kentucky
+2012,kiddgmi01,Michael Kidd-Gilchrist,2,CHA,Kentucky
+2012,bealbr01,Bradley Beal,3,WAS,Florida
+2012,waitedi01,Dion Waiters,4,CLE,Syracuse
+2012,robinth01,Thomas Robinson,5,SAC,Kansas
+2012,lillada01,Damian Lillard,6,POR,Weber State
+2012,barneha02,Harrison Barnes,7,GSW,UNC
+2012,rosste01,Terrence Ross,8,TOR,Washington
+2012,drumman01,Andre Drummond,9,DET,UConn
+2012,riverau01,Austin Rivers,10,NOH,Duke
+2012,leoname01,Meyers Leonard,11,POR,Illinois
+2012,lambje01,Jeremy Lamb,12,HOU,UConn
+2012,marshke01,Kendall Marshall,13,PHO,UNC
+2012,hensojo01,John Henson,14,MIL,UNC
+2012,harklma01,Maurice Harkless,15,PHI,St. John's
+2012,whitero03,Royce White,16,HOU,Iowa State
+2012,zellety01,Tyler Zeller,17,DAL,UNC
+2012,joneste01,Terrence Jones,18,HOU,Kentucky
+2012,nichoan01,Andrew Nicholson,19,ORL,St. Bonaventure
+2012,fournev01,Evan Fournier,20,DEN,
+2012,sullija01,Jared Sullinger,21,BOS,Ohio State
+2012,melofa01,Fab Melo,22,BOS,Syracuse
+2012,jenkijo01,John Jenkins,23,ATL,Vanderbilt
+2012,cunnija01,Jared Cunningham,24,CLE,Oregon State
+2012,wroteto01,Tony Wroten,25,MEM,Washington
+2012,plumlmi01,Miles Plumlee,26,IND,Duke
+2012,moultar01,Arnett Moultrie,27,MIA,Mississippi State
+2012,jonespe01,Perry Jones,28,OKC,Baylor
+2012,teaguma01,Marquis Teague,29,CHI,Kentucky
+2012,ezelife01,Festus Ezeli,30,GSW,Vanderbilt
+2012,tayloje03,Jeff Taylor,31,CHA,Vanderbilt
+2012,satorto01,Tomáš Satoranský,32,WAS,
+2012,jamesbe01,Bernard James,33,CLE,Florida State
+2012,crowdja01,Jae Crowder,34,CLE,Marquette
+2012,greendr01,Draymond Green,35,GSW,Michigan State
+2012,johnsor01,Orlando Johnson,36,SAC,UC Santa Barbara
+2012,acyqu01,Quincy Acy,37,TOR,Baylor
+2012,millequ01,Quincy Miller,38,DEN,Baylor
+2012,middlkh01,Khris Middleton,39,DET,Texas A&M
+2012,bartowi01,Will Barton,40,POR,Memphis
+2012,tayloty01,Tyshawn Taylor,41,POR,Kansas
+2012,lambdo01,Doron Lamb,42,MIL,Kentucky
+2012,scottmi01,Mike Scott,43,ATL,Virginia
+2012,engliki01,Kim English,44,DET,Missouri
+2012,hamilju01,Justin Hamilton,45,PHI,LSU
+2012,milleda01,Darius Miller,46,NOH,Kentucky
+2012,murphke01,Kevin Murphy,47,UTA,Tennessee Technological University
+2012,papanko01,Kostas Papanikolaou,48,NYK,
+2012,oquinky01,Kyle O'Quinn,49,ORL,Norfolk State
+2012,turkyiz01,İzzet Türkyılmaz,50,DEN,
+2012,josepkr01,Kris Joseph,51,BOS,Syracuse
+2012,kuzmiog01,Ognjen Kuzmić,52,GSW,
+2012,aldemfu01,Furkan Aldemir,53,LAC,
+2012,shengto01,Tornike Shengelia,54,PHI,
+2012,johnsda03,Darius Johnson-Odom,55,DAL,Marquette
+2012,zubcito01,Tomislav Zubčić,56,TOR,
+2012,karamil01,İlkan Karaman,57,NJN,
+2012,hummero01,Robbie Hummel,58,MIN,Purdue
+2012,denmoma01,Marcus Denmon,59,SAS,Missouri
+2012,sacrero01,Robert Sacre,60,LAL,Gonzaga
+2013,bennean01,Anthony Bennett,1,CLE,UNLV
+2013,oladivi01,Victor Oladipo,2,ORL,Indiana
+2013,porteot01,Otto Porter Jr.,3,WAS,Georgetown
+2013,zelleco01,Cody Zeller,4,CHA,Indiana
+2013,lenal01,Alex Len,5,PHO,Maryland
+2013,noelne01,Nerlens Noel,6,NOH,Kentucky
+2013,mclembe01,Ben McLemore,7,SAC,Kansas
+2013,caldwke01,Kentavious Caldwell-Pope,8,DET,Georgia
+2013,burketr01,Trey Burke,9,MIN,Michigan
+2013,mccolcj01,CJ McCollum,10,POR,Lehigh
+2013,cartemi01,Michael Carter-Williams,11,PHI,Syracuse
+2013,adamsst01,Steven Adams,12,OKC,Pitt
+2013,olynyke01,Kelly Olynyk,13,DAL,Gonzaga
+2013,muhamsh01,Shabazz Muhammad,14,UTA,UCLA
+2013,antetgi01,Giannis Antetokounmpo,15,MIL,
+2013,noguelu01,Lucas Nogueira,16,BOS,
+2013,schrode01,Dennis Schröder,17,ATL,
+2013,larkish01,Shane Larkin,18,ATL,Miami (FL)
+2013,karasse01,Sergey Karasev,19,CLE,
+2013,snellto01,Tony Snell,20,CHI,New Mexico
+2013,dienggo01,Gorgui Dieng,21,UTA,Louisville
+2013,plumlma01,Mason Plumlee,22,BRK,Duke
+2013,hillso01,Solomon Hill,23,IND,Arizona
+2013,hardati02,Tim Hardaway Jr.,24,NYK,Michigan
+2013,bullore01,Reggie Bullock,25,LAC,UNC
+2013,roberan03,Andre Roberson,26,MIN,Colorado
+2013,goberru01,Rudy Gobert,27,DEN,
+2013,jeancli01,Livio Jean-Charles,28,SAS,
+2013,goodwar01,Archie Goodwin,29,OKC,Kentucky
+2013,nedovne01,Nemanja Nedović,30,PHO,
+2013,crabbal01,Allen Crabbe,31,CLE,California
+2013,abrinal01,Álex Abrines,32,OKC,
+2013,felixca01,Carrick Felix,33,CLE,Arizona State
+2013,canaais01,Isaiah Canaan,34,HOU,Murray State
+2013,ricegl02,Glen Rice Jr.,35,PHI,Georgia Tech
+2013,mccalra01,Ray McCallum,36,SAC,Detroit Mercy
+2013,mitchto02,Tony Mitchell,37,DET,University of North Texas
+2013,woltena01,Nate Wolters,38,WAS,South Dakota State
+2013,witheje01,Jeff Withey,39,POR,Kansas
+2013,jerregr01,Grant Jerrett,40,POR,Arizona
+2013,frankja01,Jamaal Franklin,41,MEM,San Diego State
+2013,jackspi01,Pierre Jackson,42,PHI,Baylor
+2013,ledori01,Ricky Ledo,43,MIL,Providence
+2013,muscami01,Mike Muscala,44,DAL,Bucknell
+2013,todorma01,Marko Todorović,45,POR,
+2013,greener01,Erick Green,46,UTA,Virginia Tech
+2013,netora01,Raul Neto,47,ATL,
+2013,kellyry01,Ryan Kelly,48,LAL,Duke
+2013,murpher01,Erik Murphy,49,CHI,Florida
+2013,ennisja01,James Ennis III,50,ATL,Cal State Long Beach
+2013,osbyro01,Romero Osby,51,ORL,Oklahoma
+2013,brownlo01,Lorenzo Brown,52,MIN,NC State
+2013,iversco01,Colton Iverson,53,IND,Colorado State
+2013,kazemar01,Arsalan Kazemi,54,WAS,Oregon
+2013,lauvejo01,Joffrey Lauvergne,55,MEM,
+2013,sivape01,Peyton Siva,56,DET,Louisville
+2013,oriakal01,Alex Oriakhi,57,PHO,Missouri
+2013,thomade01,Deshaun Thomas,58,SAS,Ohio State
+2013,dubljbo01,Bojan Dubljević,59,MIN,
+2013,timmaja01,Jānis Timma,60,MEM,
+2014,wiggian01,Andrew Wiggins,1,CLE,Kansas
+2014,parkeja01,Jabari Parker,2,MIL,Duke
+2014,embiijo01,Joel Embiid,3,PHI,Kansas
+2014,gordoaa01,Aaron Gordon,4,ORL,Arizona
+2014,exumda01,Danté Exum,5,UTA,
+2014,smartma01,Marcus Smart,6,BOS,Oklahoma State
+2014,randlju01,Julius Randle,7,LAL,Kentucky
+2014,stausni01,Nik Stauskas,8,SAC,Michigan
+2014,vonleno01,Noah Vonleh,9,CHO,Indiana
+2014,paytoel01,Elfrid Payton,10,PHI,Louisiana
+2014,mcderdo01,Doug McDermott,11,DEN,Creighton
+2014,saricda01,Dario Šarić,12,ORL,
+2014,lavinza01,Zach LaVine,13,MIN,UCLA
+2014,warretj01,T.J. Warren,14,PHO,NC State
+2014,paynead01,Adreian Payne,15,ATL,Michigan State
+2014,nurkiju01,Jusuf Nurkić,16,CHI,
+2014,youngja01,James Young,17,BOS,Kentucky
+2014,ennisty01,Tyler Ennis,18,PHO,Syracuse
+2014,harriga01,Gary Harris,19,CHI,Michigan State
+2014,cabocbr01,Bruno Caboclo,20,TOR,
+2014,mcgarmi01,Mitch McGary,21,OKC,Michigan
+2014,adamsjo01,Jordan Adams,22,MEM,UCLA
+2014,hoodro01,Rodney Hood,23,UTA,Duke
+2014,napiesh01,Shabazz Napier,24,CHO,UConn
+2014,capelca01,Clint Capela,25,HOU,
+2014,hairspj02,P.J. Hairston,26,MIA,UNC
+2014,bogdabo01,Bogdan Bogdanović,27,PHO,
+2014,wilcocj01,C.J. Wilcox,28,LAC,Washington
+2014,huestjo01,Josh Huestis,29,OKC,Stanford
+2014,anderky01,Kyle Anderson,30,SAS,UCLA
+2014,inglida01,Damien Inglis,31,MIL,
+2014,mcdankj01,K.J. McDaniels,32,PHI,Clemson
+2014,harrijo01,Joe Harris,33,CLE,Virginia
+2014,earlycl01,Cleanthony Early,34,NYK,Wichita State
+2014,stokeja01,Jarnell Stokes,35,UTA,Tennessee
+2014,obryajo01,Johnny O'Bryant,36,MIL,LSU
+2014,daniede01,DeAndre Daniels,37,TOR,UConn
+2014,dinwisp01,Spencer Dinwiddie,38,DET,Colorado
+2014,grantje01,Jerami Grant,39,PHI,Syracuse
+2014,robingl02,Glenn Robinson III,40,MIN,Michigan
+2014,jokicni01,Nikola Jokić,41,DEN,
+2014,johnsni01,Nick Johnson,42,HOU,Arizona
+2014,tavarwa01,Edy Tavares,43,ATL,
+2014,brownma02,Markel Brown,44,MIN,Oklahoma State
+2014,poweldw01,Dwight Powell,45,CHO,Stanford
+2014,clarkjo01,Jordan Clarkson,46,WAS,Missouri
+2014,smithru01,Russ Smith,47,PHI,Louisville
+2014,pattela01,Lamar Patterson,48,MIL,Pitt
+2014,bairsca01,Cameron Bairstow,49,CHI,New Mexico
+2014,brownal01,Alec Brown,50,PHO,Green Bay
+2014,antetth01,Thanasis Antetokounmpo,51,NYK,
+2014,micicva01,Vasilije Micić,52,PHI,
+2014,gential01,Alessandro Gentile,53,MIN,
+2014,dangune01,Nemanja Dangubić,54,PHI,
+2014,chrisse01,Semaj Christon,55,MIA,Xavier
+2014,marblde01,Devyn Marble,56,DEN,Iowa
+2014,labeylo01,Louis Labeyrie,57,IND,
+2014,mcraejo01,Jordan McRae,58,SAS,Tennessee
+2014,thamexa01,Xavier Thames,59,TOR,San Diego State
+2014,jeffeco01,Cory Jefferson,60,SAS,Baylor
+2015,townska01,Karl-Anthony Towns,1,MIN,Kentucky
+2015,russeda01,D'Angelo Russell,2,LAL,Ohio State
+2015,okafoja01,Jahlil Okafor,3,PHI,Duke
+2015,porzikr01,Kristaps Porziņģis,4,NYK,
+2015,hezonma01,Mario Hezonja,5,ORL,
+2015,caulewi01,Willie Cauley-Stein,6,SAC,Kentucky
+2015,mudiaem01,Emmanuel Mudiay,7,DEN,
+2015,johnsst04,Stanley Johnson,8,DET,Arizona
+2015,kaminfr01,Frank Kaminsky,9,CHO,Wisconsin
+2015,winslju01,Justise Winslow,10,MIA,Duke
+2015,turnemy01,Myles Turner,11,IND,Texas
+2015,lylestr01,Trey Lyles,12,UTA,Kentucky
+2015,bookede01,Devin Booker,13,PHO,Kentucky
+2015,payneca01,Cameron Payne,14,OKC,Murray State
+2015,oubreke01,Kelly Oubre Jr.,15,ATL,Kansas
+2015,roziete01,Terry Rozier,16,BOS,Louisville
+2015,vaughra01,Rashad Vaughn,17,MIL,UNLV
+2015,dekkesa01,Sam Dekker,18,HOU,Wisconsin
+2015,grantje02,Jerian Grant,19,WAS,Notre Dame
+2015,wrighde01,Delon Wright,20,TOR,Utah
+2015,anderju01,Justin Anderson,21,DAL,Virginia
+2015,portibo01,Bobby Portis,22,CHI,Arkansas
+2015,holliro01,Rondae Hollis-Jefferson,23,POR,Arizona
+2015,jonesty01,Tyus Jones,24,CLE,Duke
+2015,martija01,Jarell Martin,25,MEM,LSU
+2015,milutni01,Nikola Milutinov,26,SAS,
+2015,nancela02,Larry Nance Jr.,27,LAL,Wyoming
+2015,hunterj01,R.J. Hunter,28,BOS,Georgia State University
+2015,mcculch01,Chris McCullough,29,BRK,Syracuse
+2015,looneke01,Kevon Looney,30,GSW,UCLA
+2015,osmande01,Cedi Osman,31,MIN,
+2015,harremo01,Montrezl Harrell,32,HOU,Louisville
+2015,mickejo01,Jordan Mickey,33,BOS,LSU
+2015,brownan02,Anthony Brown,34,LAL,Stanford
+2015,hernawi01,Willy Hernangómez,35,PHI,
+2015,chrisra01,Rakeem Christmas,36,MIN,Syracuse
+2015,holmeri01,Richaun Holmes,37,PHI,Bowling Green
+2015,hillida01,Darrun Hilliard,38,DET,Villanova
+2015,vauleju01,Juan Pablo Vaulet,39,CHO,
+2015,richajo01,Josh Richardson,40,MIA,Tennessee
+2015,connapa01,Pat Connaughton,41,BRK,Notre Dame
+2015,hanlaol01,Olivier Hanlan,42,UTA,Boston College
+2015,youngjo01,Joe Young,43,IND,Oregon
+2015,harrian01,Andrew Harrison,44,PHO,Kentucky
+2015,thornma02,Marcus Thornton,45,BOS,William & Mary
+2015,powelno01,Norman Powell,46,MIL,UCLA
+2015,gudaiar01,Artūras Gudaitis,47,PHI,
+2015,johnsda04,Dakari Johnson,48,OKC,Kentucky
+2015,whiteaa01,Aaron White,49,WAS,Iowa
+2015,eriksma01,Marcus Eriksson,50,ATL,
+2015,harvety01,Tyler Harvey,51,ORL,Eastern Washington
+2015,singhsa01,Satnam Singh,52,DAL,
+2015,pointsi01,Sir'Dominic Pointer,53,CLE,St. John's
+2015,diezda01,Dani Díez,54,UTA,
+2015,lalanca01,Cady Lalanne,55,SAS,UMass
+2015,dawsobr01,Branden Dawson,56,NOP,Michigan State
+2015,radicni01,Nikola Radičević,57,DEN,
+2015,tokotjp01,J.P. Tokoto,58,PHI,UNC
+2015,agravdi01,Dimitrios Agravanis,59,ATL,
+2015,mitrolu01,Luka Mitrović,60,PHI,
+2016,simmobe01,Ben Simmons,1,PHI,LSU
+2016,ingrabr01,Brandon Ingram,2,LAL,Duke
+2016,brownja02,Jaylen Brown,3,BOS,California
+2016,bendedr01,Dragan Bender,4,PHO,
+2016,dunnkr01,Kris Dunn,5,MIN,Providence
+2016,hieldbu01,Buddy Hield,6,NOP,Oklahoma
+2016,murraja01,Jamal Murray,7,DEN,Kentucky
+2016,chrisma01,Marquese Chriss,8,SAC,Washington
+2016,poeltja01,Jakob Poeltl,9,TOR,Utah
+2016,makerth01,Thon Maker,10,MIL,
+2016,sabondo01,Domantas Sabonis,11,ORL,Gonzaga
+2016,princta02,Taurean Prince,12,UTA,Baylor
+2016,papagge01,Georgios Papagiannis,13,PHO,
+2016,valende01,Denzel Valentine,14,CHI,Michigan State
+2016,hernaju01,Juancho Hernangómez,15,DEN,
+2016,yabusgu01,Guerschon Yabusele,16,BOS,
+2016,baldwwa01,Wade Baldwin,17,MEM,Vanderbilt
+2016,ellenhe01,Henry Ellenson,18,DET,Marquette
+2016,beaslma01,Malik Beasley,19,DEN,Florida State
+2016,leverca01,Caris LeVert,20,IND,Michigan
+2016,bembrde01,DeAndre' Bembry,21,ATL,Saint Joseph's
+2016,richama01,Malachi Richardson,22,CHO,Syracuse
+2016,zizican01,Ante Žižić,23,BOS,
+2016,luwawti01,Timothé Luwawu-Cabarrot,24,PHI,
+2016,johnsbr02,Brice Johnson,25,LAC,UNC
+2016,korkmfu01,Furkan Korkmaz,26,PHI,
+2016,siakapa01,Pascal Siakam,27,TOR,New Mexico State
+2016,labissk01,Skal Labissière,28,PHO,Kentucky
+2016,murrade01,Dejounte Murray,29,SAS,Washington
+2016,jonesda03,Damian Jones,30,GSW,Vanderbilt
+2016,davisde01,Deyonta Davis,31,BOS,Michigan State
+2016,zubaciv01,Ivica Zubac,32,LAL,
+2016,diallch01,Cheick Diallo,33,LAC,Kansas
+2016,ulisty01,Tyler Ulis,34,PHO,Kentucky
+2016,zagorra01,Rade Zagorac,35,BOS,
+2016,brogdma01,Malcolm Brogdon,36,MIL,Virginia
+2016,onuakch01,Chinanu Onuaku,37,HOU,Louisville
+2016,mccawpa01,Patrick McCaw,38,MIL,UNLV
+2016,michida01,David Michineau,39,NOP,
+2016,stonedi01,Diamond Stone,40,NOP,Maryland
+2016,zimmest01,Stephen Zimmerman,41,ORL,UNLV
+2016,whiteis01,Isaiah Whitehead,42,UTA,Seton Hall
+2016,qizh01,Zhou Qi,43,HOU,
+2016,cordiis01,Isaïa Cordinier,44,ATL,
+2016,jacksde01,Demetrius Jackson,45,BOS,Notre Dame
+2016,hammoaj01,A.J. Hammons,46,DAL,Purdue
+2016,laymaja01,Jake Layman,47,ORL,Maryland
+2016,zipsepa01,Paul Zipser,48,CHI,
+2016,gbinimi01,Michael Gbinije,49,DET,Syracuse
+2016,niangge01,Georges Niang,50,IND,Iowa State
+2016,bentibe01,Ben Bentil,51,BOS,Providence
+2016,bolomjo01,Joel Bolomboy,52,UTA,Weber State
+2016,cornepe01,Petr Cornelie,53,DEN,
+2016,feldeka01,Kay Felder,54,ATL,Oakland
+2016,paigema01,Marcus Paige,55,BRK,UNC
+2016,hamilda02,Daniel Hamilton,56,DEN,UConn
+2016,sheliwa01,Wang Zhelin,57,MEM,
+2016,naderab01,Abdel Nader,58,BOS,Iowa State
+2016,cousiis01,Isaiah Cousins,59,SAC,Oklahoma
+2016,wallaty01,Tyrone Wallace,60,UTA,California
+2017,fultzma01,Markelle Fultz,1,PHI,Washington
+2017,balllo01,Lonzo Ball,2,LAL,UCLA
+2017,tatumja01,Jayson Tatum,3,BOS,Duke
+2017,jacksjo02,Josh Jackson,4,PHO,Kansas
+2017,foxde01,De'Aaron Fox,5,SAC,Kentucky
+2017,isaacjo01,Jonathan Isaac,6,ORL,Florida State
+2017,markkla01,Lauri Markkanen,7,MIN,Arizona
+2017,ntilila01,Frank Ntilikina,8,NYK,
+2017,smithde03,Dennis Smith Jr.,9,DAL,NC State
+2017,colliza01,Zach Collins,10,SAC,Gonzaga
+2017,monkma01,Malik Monk,11,CHO,Kentucky
+2017,kennalu01,Luke Kennard,12,DET,Duke
+2017,mitchdo01,Donovan Mitchell,13,DEN,Louisville
+2017,adebaba01,Bam Adebayo,14,MIA,Kentucky
+2017,jacksju01,Justin Jackson,15,POR,UNC
+2017,pattoju01,Justin Patton,16,CHI,Creighton
+2017,wilsodj01,D.J. Wilson,17,MIL,Michigan
+2017,leaftj01,T.J. Leaf,18,IND,UCLA
+2017,collijo01,John Collins,19,ATL,Wake Forest
+2017,gilesha01,Harry Giles,20,POR,Duke
+2017,fergute01,Terrance Ferguson,21,OKC,
+2017,allenja01,Jarrett Allen,22,BRK,Texas
+2017,anunoog01,OG Anunoby,23,TOR,Indiana
+2017,lydonty01,Tyler Lydon,24,UTA,Syracuse
+2017,pasecan01,Anžejs Pasečņiks,25,ORL,
+2017,swanica01,Caleb Swanigan,26,POR,Purdue
+2017,kuzmaky01,Kyle Kuzma,27,BRK,Utah
+2017,bradlto01,Tony Bradley,28,LAL,UNC
+2017,whitede01,Derrick White,29,SAS,Colorado
+2017,hartjo01,Josh Hart,30,UTA,Villanova
+2017,jacksfr01,Frank Jackson,31,CHO,Duke
+2017,reedda01,Davon Reed,32,PHO,Miami (FL)
+2017,iwundwe01,Wes Iwundu,33,ORL,Kansas State
+2017,masonfr01,Frank Mason III,34,SAC,Kansas
+2017,rabbiv01,Ivan Rabb,35,ORL,California
+2017,boldejo01,Jonah Bolden,36,PHI,
+2017,ojelese01,Semi Ojeleye,37,BOS,SMU
+2017,belljo01,Jordan Bell,38,CHI,Oregon
+2017,evansja01,Jawun Evans,39,PHI,Oklahoma State
+2017,bacondw01,Dwayne Bacon,40,NOP,Florida State
+2017,dorsety01,Tyler Dorsey,41,ATL,Oregon
+2017,bryanth01,Thomas Bryant,42,UTA,Indiana
+2017,harteis01,Isaiah Hartenstein,43,HOU,
+2017,dotsoda01,Damyean Dotson,44,NYK,Oregon
+2017,brookdi01,Dillon Brooks,45,HOU,Oregon
+2017,brownst02,Sterling Brown,46,PHI,SMU
+2017,anigbik01,Ike Anigbogu,47,IND,UCLA
+2017,thornsi01,Sindarius Thornwell,48,MIL,South Carolina
+2017,cancavl01,Vlatko Čančar,49,DEN,
+2017,lessoma01,Mathias Lessort,50,PHI,
+2017,morrimo01,Monte Morris,51,DEN,Iowa State
+2017,sumneed01,Edmond Sumner,52,NOP,Xavier
+2017,allenka01,Kadeem Allen,53,BOS,Arizona
+2017,peteral01,Alec Peters,54,PHO,Valparaiso
+2017,willini01,Nigel Williams-Goss,55,UTA,Gonzaga
+2017,birdja01,Jabari Bird,56,BOS,California
+2017,vezenal01,Sasha Vezenkov,57,BRK,
+2017,jaramog01,Ognjen Jaramaz,58,NYK,
+2017,blossja01,Jaron Blossomgame,59,SAS,Clemson
+2017,kabaal01,Alpha Kaba,60,ATL,
+2018,aytonde01,Deandre Ayton,1,PHO,Arizona
+2018,baglema01,Marvin Bagley III,2,SAC,Duke
+2018,doncilu01,Luka Dončić,3,ATL,
+2018,jacksja02,Jaren Jackson Jr.,4,MEM,Michigan State
+2018,youngtr01,Trae Young,5,DAL,Oklahoma
+2018,bambamo01,Mo Bamba,6,ORL,Texas
+2018,cartewe01,Wendell Carter Jr.,7,CHI,Duke
+2018,sextoco01,Collin Sexton,8,CLE,Alabama
+2018,knoxke01,Kevin Knox,9,NYK,Kentucky
+2018,bridgmi01,Mikal Bridges,10,PHI,Villanova
+2018,gilgesh01,Shai Gilgeous-Alexander,11,CHO,Kentucky
+2018,bridgmi02,Miles Bridges,12,LAC,Michigan State
+2018,robinje01,Jerome Robinson,13,LAC,Boston College
+2018,portemi01,Michael Porter Jr.,14,DEN,Missouri
+2018,browntr01,Troy Brown Jr.,15,WAS,Oregon
+2018,smithzh01,Zhaire Smith,16,PHO,Texas Tech
+2018,divindo01,Donte DiVincenzo,17,MIL,Villanova
+2018,walkelo01,Lonnie Walker IV,18,SAS,Miami (FL)
+2018,huertke01,Kevin Huerter,19,ATL,Maryland
+2018,okogijo01,Josh Okogie,20,MIN,Georgia Tech
+2018,allengr01,Grayson Allen,21,UTA,Duke
+2018,hutchch01,Chandler Hutchison,22,CHI,Boise State
+2018,holidaa01,Aaron Holiday,23,IND,UCLA
+2018,simonan01,Anfernee Simons,24,POR,
+2018,wagnemo01,Moritz Wagner,25,LAL,Michigan
+2018,shamela01,Landry Shamet,26,PHI,Wichita State
+2018,williro04,Robert Williams,27,BOS,Texas A&M
+2018,evansja02,Jacob Evans,28,GSW,Cincinnati
+2018,musadz01,Džanan Musa,29,BRK,
+2018,spellom01,Omari Spellman,30,ATL,Villanova
+2018,okoboel01,Elie Okobo,31,PHO,
+2018,carteje01,Jevon Carter,32,MEM,West Virginia
+2018,brunsja01,Jalen Brunson,33,DAL,Villanova
+2018,grahade01,Devonte' Graham,34,ATL,Kansas
+2018,frazime01,Melvin Frazier,35,ORL,Tulane
+2018,robinmi01,Mitchell Robinson,36,NYK,
+2018,trentga02,Gary Trent Jr.,37,SAC,Duke
+2018,thomakh01,Khyri Thomas,38,PHI,Creighton
+2018,bongais01,Isaac Bonga,39,PHI,
+2018,kurucro01,Rodions Kurucs,40,BRK,
+2018,vandeja01,Jarred Vanderbilt,41,ORL,Kentucky
+2018,brownbr01,Bruce Brown,42,DET,Miami (FL)
+2018,jacksju02,Justin Jackson,43,DEN,Maryland
+2018,sanonis01,Issuf Sanon,44,WAS,
+2018,diallha01,Hamidou Diallo,45,BRK,Kentucky
+2018,meltode01,De'Anthony Melton,46,HOU,USC
+2018,mykhasv01,Svi Mykhailiuk,47,LAL,Kansas
+2018,bateske01,Keita Bates-Diop,48,MIN,Ohio State
+2018,metuch01,Chimezie Metu,49,SAS,USC
+2018,johnsal02,Alize Johnson,50,IND,Missouri State
+2018,carrto01,Tony Carr,51,NOP,Penn State
+2018,edwarvi01,Vince Edwards,52,UTA,Purdue
+2018,hallde01,Devon Hall,53,OKC,Virginia
+2018,miltosh01,Shake Milton,54,DAL,SMU
+2018,kulboar01,Arnoldas Kulboka,55,CHO,
+2018,spaldra01,Ray Spalding,56,PHI,Louisville
+2018,herveke01,Kevin Hervey,57,OKC,UT Arlington
+2018,welshth01,Thomas Welsh,58,DEN,UCLA
+2018,kingge03,George King,59,PHO,Colorado
+2018,antetko01,Kostas Antetokounmpo,60,PHI,Dayton
+2019,willizi01,Zion Williamson,1,NOP,Duke
+2019,moranja01,Ja Morant,2,MEM,Murray State
+2019,barrerj01,RJ Barrett,3,NYK,Duke
+2019,huntede01,De'Andre Hunter,4,LAL,Virginia
+2019,garlada01,Darius Garland,5,CLE,Vanderbilt
+2019,culveja01,Jarrett Culver,6,PHO,Texas Tech
+2019,whiteco01,Coby White,7,CHI,UNC
+2019,hayesja02,Jaxson Hayes,8,ATL,Texas
+2019,hachiru01,Rui Hachimura,9,WAS,Gonzaga
+2019,reddica01,Cam Reddish,10,ATL,Duke
+2019,johnsca02,Cameron Johnson,11,MIN,UNC
+2019,washipj01,P.J. Washington,12,CHO,Kentucky
+2019,herroty01,Tyler Herro,13,MIA,Kentucky
+2019,langfro01,Romeo Langford,14,BOS,Indiana
+2019,doumbse01,Sekou Doumbouya,15,DET,
+2019,okekech01,Chuma Okeke,16,ORL,Auburn
+2019,alexani01,Nickeil Alexander-Walker,17,BRK,Virginia Tech
+2019,bitadgo01,Goga Bitadze,18,IND,
+2019,samanlu01,Luka Šamanić,19,SAS,
+2019,thybuma01,Matisse Thybulle,20,BOS,Washington
+2019,clarkbr01,Brandon Clarke,21,OKC,Gonzaga
+2019,willigr01,Grant Williams,22,BOS,Tennessee
+2019,bazleda01,Darius Bazley,23,UTA,
+2019,jeromty01,Ty Jerome,24,PHI,Virginia
+2019,littlna01,Nassir Little,25,POR,UNC
+2019,windldy01,Dylan Windler,26,CLE,Belmont
+2019,kabenmf01,Mfiondu Kabengele,27,BRK,Florida State
+2019,poolejo01,Jordan Poole,28,GSW,Michigan
+2019,johnske04,Keldon Johnson,29,SAS,Kentucky
+2019,porteke02,Kevin Porter Jr.,30,MIL,USC
+2019,claxtni01,Nic Claxton,31,BRK,Georgia
+2019,okpalkz01,KZ Okpala,32,PHO,Stanford
+2019,edwarca01,Carsen Edwards,33,PHI,Purdue
+2019,fernabr01,Bruno Fernando,34,PHI,Maryland
+2019,louzama01,Didi Louzada,35,ATL,
+2019,martico01,Cody Martin,36,CHO,Nevada
+2019,sirvyde01,Deividas Sirvydis,37,DAL,
+2019,gaffoda01,Daniel Gafford,38,CHI,Arkansas
+2019,smailal01,Alen Smailagić,39,NOP,
+2019,jamesju01,Justin James,40,SAC,Wyoming
+2019,pascher01,Eric Paschall,41,GSW,Villanova
+2019,schofad01,Admiral Schofield,42,PHI,Tennessee
+2019,nowelja01,Jaylen Nowell,43,MIN,Washington
+2019,bolbo01,Bol Bol,44,MIA,Oregon
+2019,robyis01,Isaiah Roby,45,DET,Nebraska
+2019,hortota01,Talen Horton-Tucker,46,ORL,Iowa State
+2019,brazdig01,Ignas Brazdeikis,47,SAC,Michigan
+2019,mannte01,Terance Mann,48,LAC,Florida State
+2019,weathqu01,Quinndary Weatherspoon,49,SAS,Mississippi State
+2019,brantja01,Jarrell Brantley,50,IND,College of Charleston
+2019,watertr01,Tremont Waters,51,BOS,LSU
+2019,mcdanja01,Jalen McDaniels,52,CHO,San Diego State
+2019,wrighju02,Justin Wright-Foreman,53,UTA,Hofstra
+2019,shayoma01,Marial Shayok,54,PHI,Iowa State
+2019,guyky01,Kyle Guy,55,NYK,Virginia
+2019,handsja01,Jaylen Hands,56,LAC,UCLA
+2019,bonejo01,Jordan Bone,57,NOP,Tennessee
+2019,onimi01,Miye Oni,58,GSW,Yale
+2019,hernade01,Dewan Hernandez,59,TOR,Miami (FL)
+2019,marinva01,Vanja Marinković,60,SAC,
+2020,edwaran01,Anthony Edwards,1,MIN,Georgia
+2020,wisemja01,James Wiseman,2,GSW,Memphis
+2020,ballla01,LaMelo Ball,3,CHO,
+2020,willipa01,Patrick Williams,4,CHI,Florida State
+2020,okorois01,Isaac Okoro,5,CLE,Auburn
+2020,okongon01,Onyeka Okongwu,6,ATL,USC
+2020,hayeski01,Killian Hayes,7,DET,
+2020,toppiob01,Obi Toppin,8,NYK,Dayton
+2020,avdijde01,Deni Avdija,9,WAS,
+2020,smithja04,Jalen Smith,10,PHO,Maryland
+2020,vassede01,Devin Vassell,11,SAS,Florida State
+2020,halibty01,Tyrese Haliburton,12,SAC,Iowa State
+2020,lewiski01,Kira Lewis Jr.,13,NOP,Alabama
+2020,nesmiaa01,Aaron Nesmith,14,BOS,Vanderbilt
+2020,anthoco01,Cole Anthony,15,ORL,UNC
+2020,stewais01,Isaiah Stewart,16,POR,Washington
+2020,pokusal01,Aleksej Pokusevski,17,MIN,
+2020,greenjo02,Josh Green,18,DAL,Arizona
+2020,beysa01,Saddiq Bey,19,BRK,Villanova
+2020,achiupr01,Precious Achiuwa,20,MIA,Memphis
+2020,maxeyty01,Tyrese Maxey,21,PHI,Kentucky
+2020,nnajize01,Zeke Nnaji,22,DEN,Arizona
+2020,bolmale01,Leandro Bolmaro,23,NYK,
+2020,hamptrj01,R.J. Hampton,24,MIL,
+2020,quickim01,Immanuel Quickley,25,OKC,Kentucky
+2020,pritcpa01,Payton Pritchard,26,BOS,Oregon
+2020,azubuud01,Udoka Azubuike,27,UTA,Kansas
+2020,mcdanja02,Jaden McDaniels,28,LAL,Washington
+2020,flynnma01,Malachi Flynn,29,TOR,San Diego State
+2020,banede01,Desmond Bane,30,BOS,TCU
+2020,terryty01,Tyrell Terry,31,DAL,Stanford
+2020,careyve01,Vernon Carey Jr.,32,CHO,Duke
+2020,oturuda01,Daniel Oturu,33,MIN,Minnesota
+2020,maledth01,Théo Maledon,34,PHI,
+2020,tillmxa01,Xavier Tillman Sr.,35,SAC,Michigan State
+2020,beyty01,Tyler Bey,36,PHI,Colorado
+2020,krejcvi01,Vít Krejčí,37,WAS,
+2020,leesa01,Saben Lee,38,UTA,Vanderbilt
+2020,hugheel01,Elijah Hughes,39,NOP,Syracuse
+2020,woodaro01,Robert Woodard II,40,MEM,Mississippi State
+2020,jonestr01,Tre Jones,41,SAS,Duke
+2020,richani01,Nick Richards,42,NOP,Kentucky
+2020,ramseja01,Jahmi'us Ramsey,43,SAC,Texas Tech
+2020,simonma01,Marko Simonovic,44,CHI,
+2020,nworajo01,Jordan Nwora,45,MIL,Louisville
+2020,ellebcj01,CJ Elleby,46,POR,Washington State
+2020,madarya01,Yam Madar,47,BOS,
+2020,mannini01,Nico Mannion,48,GSW,Arizona
+2020,joeis01,Isaiah Joe,49,PHI,Arkansas
+2020,mayssk01,Skylar Mays,50,ATL,LSU
+2020,jessuju01,Justinian Jessup,51,GSW,Boise State
+2020,martike04,KJ Martin,52,SAC,
+2020,winstca01,Cassius Winston,53,OKC,Michigan State
+2020,stanlca01,Cassius Stanley,54,IND,Duke
+2020,scrubja01,Jay Scrubb,55,BRK,John A. Logan College
+2020,rillegr01,Grant Riller,56,CHO,College of Charleston
+2020,perryre01,Reggie Perry,57,LAC,Mississippi State
+2020,reedpa01,Paul Reed,58,PHI,DePaul
+2020,harrija01,Jalen Harris,59,TOR,Nevada
+2020,merrisa01,Sam Merrill,60,NOP,Utah State University
+2021,cunnica01,Cade Cunningham,1,DET,Oklahoma State
+2021,greenja05,Jalen Green,2,HOU,
+2021,mobleev01,Evan Mobley,3,CLE,USC
+2021,barnesc01,Scottie Barnes,4,TOR,Florida State
+2021,suggsja01,Jalen Suggs,5,ORL,Gonzaga
+2021,giddejo01,Josh Giddey,6,OKC,
+2021,kuminjo01,Jonathan Kuminga,7,GSW,
+2021,wagnefr01,Franz Wagner,8,ORL,Michigan
+2021,mitchda01,Davion Mitchell,9,SAC,Baylor
+2021,willizi02,Ziaire Williams,10,NOP,Stanford
+2021,bouknja01,James Bouknight,11,CHO,UConn
+2021,primojo01,Joshua Primo,12,SAS,Alabama
+2021,duartch01,Chris Duarte,13,IND,Oregon
+2021,moodymo01,Moses Moody,14,GSW,Arkansas
+2021,kispeco01,Corey Kispert,15,WAS,Gonzaga
+2021,sengual01,Alperen Şengün,16,OKC,
+2021,murphtr02,Trey Murphy III,17,MEM,Virginia
+2021,manntr01,Tre Mann,18,OKC,Florida
+2021,joneska01,Kai Jones,19,NYK,Texas
+2021,johnsja05,Jalen Johnson,20,ATL,Duke
+2021,johnske07,Keon Johnson,21,NYK,Tennessee
+2021,jacksis01,Isaiah Jackson,22,LAL,Kentucky
+2021,garubus01,Usman Garuba,23,HOU,
+2021,chrisjo01,Josh Christopher,24,HOU,Arizona State
+2021,grimequ01,Quentin Grimes,25,LAC,Houston
+2021,hylanbo01,Bones Hyland,26,DEN,VCU
+2021,thomaca02,Cam Thomas,27,BRK,LSU
+2021,sprinja01,Jaden Springer,28,PHI,Tennessee
+2021,sharpda01,Day'Ron Sharpe,29,PHO,UNC
+2021,aldamsa01,Santi Aldama,30,UTA,Loyola (MD)
+2021,toddis01,Isaiah Todd,31,MIL,
+2021,robinje02,Jeremiah Robinson-Earl,32,NYK,Villanova
+2021,prestja01,Jason Preston,33,ORL,Ohio University
+2021,jokubro01,Rokas Jokubaitis,34,OKC,
+2021,joneshe01,Herbert Jones,35,NOP,Alabama
+2021,mcbrimi01,Miles McBride,36,OKC,West Virginia
+2021,thorjt01,JT Thor,37,DET,Auburn
+2021,dosunay01,Ayo Dosunmu,38,CHI,Illinois
+2021,quetane01,Neemias Queta,39,SAC,Utah State University
+2021,butleja02,Jared Butler,40,NOP,Baylor
+2021,wieskjo01,Joe Wieskamp,41,SAS,Iowa
+2021,liveris01,Isaiah Livers,42,DET,Michigan
+2021,browngr01,Greg Brown III,43,NOP,Texas
+2021,edwarke02,Kessler Edwards,44,BRK,Pepperdine
+2021,begarju01,Juhann Begarin,45,BOS,
+2021,bantoda01,Dalano Banton,46,TOR,Nebraska
+2021,johnsda08,David Johnson,47,TOR,Louisville
+2021,coopesh01,Sharife Cooper,48,ATL,Auburn
+2021,zegarma01,Marcus Zegarowski,49,BRK,Creighton
+2021,petrufi01,Filip Petrušev,50,PHI,Gonzaga
+2021,bostobr01,Brandon Boston Jr.,51,MEM,Kentucky
+2021,garzalu01,Luka Garza,52,DET,Iowa
+2021,bassech01,Charles Bassey,53,PHI,Western Kentucky
+2021,mamuksa01,Sandro Mamukelashvili,54,IND,Seton Hall
+2021,wiggiaa01,Aaron Wiggins,55,OKC,Maryland
+2021,lewissc01,Scottie Lewis,56,CHO,Florida
+2021,kopriba01,Balša Koprivica,57,CHO,Florida State
+2021,simsje01,Jericho Sims,58,NYK,Texas
+2021,grayra01,RaiQuan Gray,59,BRK,Florida State
+2021,kalaige01,Georgios Kalaitzakis,60,IND,
+2022,banchpa01,Paolo Banchero,1,ORL,Duke
+2022,holmgch01,Chet Holmgren,2,OKC,Gonzaga
+2022,smithja05,Jabari Smith Jr.,3,HOU,Auburn
+2022,murrake02,Keegan Murray,4,SAC,Iowa
+2022,iveyja01,Jaden Ivey,5,DET,Purdue
+2022,mathube01,Bennedict Mathurin,6,IND,Arizona
+2022,sharpsh01,Shaedon Sharpe,7,POR,Kentucky
+2022,daniedy01,Dyson Daniels,8,NOP,
+2022,sochaje01,Jeremy Sochan,9,SAS,Baylor
+2022,davisjo06,Johnny Davis,10,WAS,Wisconsin
+2022,diengou01,Ousmane Dieng,11,NYK,
+2022,willija06,Jalen Williams,12,OKC,Santa Clara
+2022,durenja01,Jalen Duren,13,CHO,Memphis
+2022,agbajoc01,Ochai Agbaji,14,CLE,Kansas
+2022,willima07,Mark Williams,15,CHO,Duke
+2022,griffaj01,AJ Griffin,16,ATL,Duke
+2022,easonta01,Tari Eason,17,HOU,LSU
+2022,terryda01,Dalen Terry,18,CHI,Arizona
+2022,laravja01,Jake LaRavia,19,MIN,Wake Forest
+2022,branhma01,Malaki Branham,20,SAS,Ohio State
+2022,braunch01,Christian Braun,21,DEN,Kansas
+2022,kesslwa01,Walker Kessler,22,MEM,Auburn
+2022,roddyda01,David Roddy,23,PHI,Colorado State
+2022,beaucma01,MarJon Beauchamp,24,MIL,
+2022,weslebl01,Blake Wesley,25,SAS,Notre Dame
+2022,moorewe01,Wendell Moore Jr.,26,DAL,Duke
+2022,jovicni01,Nikola Jović,27,MIA,
+2022,baldwpa01,Patrick Baldwin Jr.,28,GSW,UW-Milwaukee
+2022,washity02,TyTy Washington Jr.,29,MEM,Kentucky
+2022,watsope01,Peyton Watson,30,OKC,UCLA
+2022,nembhan01,Andrew Nembhard,31,IND,Gonzaga
+2022,houstca01,Caleb Houstan,32,ORL,Michigan
+2022,kolokch01,Christian Koloko,33,TOR,Arizona
+2022,willija07,Jaylin Williams,34,OKC,Arkansas
+2022,chrisma02,Max Christie,35,LAL,Michigan State
+2022,prociga01,Gabriele Procida,36,POR,
+2022,hardyja02,Jaden Hardy,37,SAC,
+2022,chandke01,Kennedy Chandler,38,SAS,Tennessee
+2022,diopkh01,Khalifa Diop,39,CLE,
+2022,mcgowbr01,Bryce McGowens,40,MIN,Nebraska
+2022,liddeej01,E.J. Liddell,41,NOP,Ohio State
+2022,keelstr01,Trevor Keels,42,NYK,Duke
+2022,diabamo01,Moussa Diabaté,43,LAC,Michigan
+2022,rolliry01,Ryan Rollins,44,ATL,Toledo
+2022,minotjo01,Josh Minott,45,CHO,Memphis
+2022,kamagis01,Ismael Kamagate,46,DET,
+2022,willivi01,Vince Williams Jr.,47,MEM,VCU
+2022,brownke03,Kendall Brown,48,MIN,Baylor
+2022,mobleis01,Isaiah Mobley,49,CLE,USC
+2022,spagnma01,Matteo Spagnolo,50,MIN,
+2022,martity01,Tyrese Martin,51,GSW,UConn
+2022,matkoka01,Karlo Matković,52,NOP,
+2022,davisjd01,JD Davison,53,BOS,Alabama
+2022,nzosaya01,Yannick Nzosa,54,WAS,
+2022,santogu01,Gui Santos,55,GSW,
+2022,travelu01,Luke Travers,56,CLE,
+2022,walkeja01,Jabari Walker,57,POR,Colorado
+2022,bessohu01,Hugo Besson,58,IND,
+2023,wembavi01,Victor Wembanyama,1,SAS,
+2023,millebr02,Brandon Miller,2,CHO,Alabama
+2023,hendesc01,Scoot Henderson,3,POR,
+2023,thompam01,Amen Thompson,4,HOU,
+2023,thompau01,Ausar Thompson,5,DET,
+2023,blackan01,Anthony Black,6,ORL,Arkansas
+2023,coulibi01,Bilal Coulibaly,7,IND,
+2023,walkeja02,Jarace Walker,8,WAS,Houston
+2023,hendrta01,Taylor Hendricks,9,UTA,Central Florida
+2023,wallaca01,Cason Wallace,10,DAL,Kentucky
+2023,howarje01,Jett Howard,11,ORL,Michigan
+2023,livelde01,Dereck Lively II,12,OKC,Duke
+2023,dickgr01,Gradey Dick,13,TOR,Kansas
+2023,hawkijo01,Jordan Hawkins,14,NOP,UConn
+2023,bufkiko01,Kobe Bufkin,15,ATL,Michigan
+2023,georgke01,Keyonte George,16,UTA,Baylor
+2023,hoodsja01,Jalen Hood-Schifino,17,LAL,Indiana
+2023,jaqueja01,Jaime Jaquez Jr.,18,MIA,UCLA
+2023,podzibr01,Brandin Podziemski,19,GSW,Santa Clara
+2023,whitmca01,Cam Whitmore,20,HOU,Villanova
+2023,clownno01,Noah Clowney,21,BRK,Alabama
+2023,whiteda01,Dariq Whitehead,22,BRK,Duke
+2023,murrakr01,Kris Murray,23,POR,Iowa
+2023,prospol01,Olivier-Maxence Prosper,24,SAC,Marquette
+2023,sassema01,Marcus Sasser,25,MEM,Houston
+2023,sheppbe01,Ben Sheppard,26,IND,Belmont
+2023,smithni01,Nick Smith Jr.,27,CHO,Arkansas
+2023,sensabr01,Brice Sensabaugh,28,UTA,Ohio State
+2023,strawju01,Julian Strawther,29,IND,Gonzaga
+2023,brownko01,Kobe Brown,30,LAC,Missouri
+2023,nnajija01,James Nnaji,31,DET,
+2023,pickeja02,Jalen Pickett,32,IND,Penn State
+2023,millele01,Leonard Miller,33,SAS,
+2023,jonesco02,Colby Jones,34,CHO,Xavier
+2023,phillju01,Julian Phillips,35,BOS,Tennessee
+2023,jacksan01,Andre Jackson Jr.,36,ORL,UConn
+2023,tysonhu01,Hunter Tyson,37,OKC,Clemson
+2023,walshjo01,Jordan Walsh,38,SAC,Arkansas
+2023,gueyemo02,Mouhamed Gueye,39,CHO,Washington State
+2023,lewisma05,Maxwell Lewis,40,DEN,Pepperdine
+2023,baileam01,Amari Bailey,41,CHO,UCLA
+2023,vukcetr01,Tristan Vukcevic,42,WAS,
+2023,ruperra01,Rayan Rupert,43,POR,
+2023,cissosi01,Sidy Cissoko,44,SAS,
+2023,jacksgg01,GG Jackson II,45,MEM,South Carolina
+2023,lundyse01,Seth Lundy,46,ATL,Penn State
+2023,kingmo01,Mojave King,47,LAL,
+2023,millejo02,Jordan Miller,48,LAC,Miami (FL)
+2023,batesem01,Emoni Bates,49,CLE,Eastern Michigan
+2023,johnske08,Keyontae Johnson,50,OKC,Kansas State
+2023,wilsoja03,Jalen Wilson,51,BRK,Kansas
+2023,camarto01,Toumani Camara,52,PHO,Dayton
+2023,clarkja02,Jaylen Clark,53,MIN,UCLA
+2023,slawsja01,Jalen Slawson,54,SAC,Furman University
+2023,wongis01,Isaiah Wong,55,IND,Miami (FL)
+2023,biberta01,Tarik Biberovic,56,MEM,
+2023,jackstr02,Trayce Jackson-Davis,57,WAS,Indiana
+2023,livinch01,Chris Livingston,58,MIL,Kentucky
+2024,risacza01,Zaccharie Risacher,1,ATL,
+2024,sarral01,Alex Sarr,2,WAS,
+2024,sheppre01,Reed Sheppard,3,HOU,Kentucky
+2024,castlst01,Stephon Castle,4,SAS,UConn
+2024,hollaro01,Ron Holland,5,DET,
+2024,salauti01,Tidjane Salaün,6,CHO,
+2024,clingdo01,Donovan Clingan,7,POR,UConn
+2024,dilliro01,Rob Dillingham,8,SAS,Kentucky
+2024,edeyza01,Zach Edey,9,MEM,Purdue
+2024,willico04,Cody Williams,10,UTA,Colorado
+2024,buzelma01,Matas Buzelis,11,CHI,
+2024,topicni01,Nikola Topić,12,OKC,
+2024,cartede02,Devin Carter,13,SAC,Providence
+2024,carrica01,Bub Carrington,14,POR,Pitt
+2024,wareke01,Kel'el Ware,15,MIA,Indiana
+2024,mccaija01,Jared McCain,16,PHI,Duke
+2024,knechda01,Dalton Knecht,17,LAL,Tennessee
+2024,dasiltr01,Tristan Da Silva,18,ORL,Colorado
+2024,walteja01,Ja'Kobe Walter,19,TOR,Baylor
+2024,tysonja01,Jaylon Tyson,20,CLE,California
+2024,missiyv01,Yves Missi,21,NOP,Baylor
+2024,holmeda01,DaRon Holmes,22,PHO,Dayton
+2024,johnsaj01,AJ Johnson,23,MIL,
+2024,georgky01,Kyshawn George,24,NYK,Miami (FL)
+2024,dadiepa01,Pacôme Dadiet,25,NYK,
+2024,jonesdi01,Dillon Jones,26,WAS,Weber State
+2024,shannte01,Terrence Shannon Jr.,27,MIN,Illinois
+2024,dunnry01,Ryan Dunn,28,DEN,Virginia
+2024,colliis01,Isaiah Collier,29,UTA,USC
+2024,scheiba01,Baylor Scheierman,30,BOS,Creighton
+2024,mogbojo01,Jonathan Mogbo,31,TOR,San Francisco
+2024,filipky01,Kyle Filipowski,32,UTA,Duke
+2024,smithty02,Tyler Smith,33,MIL,
+2024,kolekty01,Tyler Kolek,34,POR,Marquette
+2024,furphjo01,Johnny Furphy,35,SAS,Kansas
+2024,nunezju01,Juan Nunez,36,IND,
+2024,klintbo01,Bobi Klintman,37,MIN,
+2024,mitchaj01,Ajay Mitchell,38,NYK,UC Santa Barbara
+2024,wellsja01,Jaylen Wells,39,MEM,Washington State
+2024,ighodos01,Oso Ighodaro,40,POR,Marquette
+2024,bonaad01,Adem Bona,41,PHI,UCLA
+2024,simpskj01,KJ Simpson,42,CHO,Colorado
+2024,djurini01,Nikola Djurisic,43,MIA,
+2024,larsspe01,Pelle Larsson,44,HOU,Arizona
+2024,sheadja01,Jamal Shead,45,SAC,Houston
+2024,chrisca02,Cam Christie,46,LAC,Minnesota
+2024,reevean01,Antonio Reeves,47,ORL,Kentucky
+2024,ingraha01,Harrison Ingram,48,SAS,UNC
+2024,newtotr01,Tristen Newton,49,IND,UConn
+2024,freemen01,Enrique Freeman,50,IND,University of Akron
+2024,ajincme01,Melvin Ajinça,51,NYK,
+2024,postqu01,Quinten Post,52,GSW,Boston College
+2024,spencca01,Cam Spencer,53,DET,UConn
+2024,watsoan02,Anton Watson,54,BOS,Gonzaga
+2024,jamesbr02,Bronny James,55,LAL,USC
+2024,mcculke01,Kevin McCullar Jr.,56,PHO,Kansas
+2024,chomcul01,Ulrich Chomche,57,MEM,
+2024,hukpoar01,Ariel Hukporti,58,DAL,
+2025,flaggco01,Cooper Flagg,1,DAL,Duke
+2025,harpedy01,Dylan Harper,2,SAS,Rutgers University
+2025,edgecvj01,VJ Edgecombe,3,PHI,Baylor
+2025,knuepko01,Kon Knueppel,4,CHO,Duke
+2025,baileac01,Ace Bailey,5,UTA,Rutgers University
+2025,johnstr03,Tre Johnson,6,WAS,Texas
+2025,fearsje01,Jeremiah Fears,7,NOP,Oklahoma
+2025,demineg01,Egor Dëmin,8,BRK,BYU
+2025,murraco01,Collin Murray-Boyles,9,TOR,South Carolina
+2025,maluakh01,Khaman Maluach,10,HOU,Duke
+2025,cowarce01,Cedric Coward,11,POR,Washington State
+2025,essenno01,Noa Essengue,12,CHI,
+2025,queende01,Derik Queen,13,ATL,Maryland
+2025,bryanca01,Carter Bryant,14,SAS,Arizona
+2025,sorbeth01,Thomas Sorber,15,OKC,Georgetown
+2025,yangha01,Yang Hansen,16,MEM,
+2025,berinjo01,Joan Beringer,17,MIN,
+2025,claytwa01,Walter Clayton,18,WAS,Florida
+2025,traorno01,Nolan Traoré,19,BRK,
+2025,jakucka01,Kasparas Jakučionis,20,MIA,Illinois
+2025,rileywi01,Will Riley,21,UTA,Illinois
+2025,poweldr01,Drake Powell,22,ATL,UNC
+2025,newelas01,Asa Newell,23,IND,Georgia
+2025,cliffni01,Nique Clifford,24,OKC,Colorado State
+2025,richaja02,Jase Richardson,25,ORL,Michigan State
+2025,sarafbe01,Ben Saraf,26,BRK,
+2025,wolfda01,Danny Wolf,27,BRK,Michigan
+2025,gonzahu01,Hugo González,28,BOS,
+2025,mcneeli01,Liam McNeeley,29,PHO,UConn
+2025,konanya01,Yanic Konan Niederhäuser,30,LAC,Penn State
+2025,flemira01,Rasheer Fleming,31,MIN,Saint Joseph's
+2025,pendano01,Noah Penda,32,BOS,
+2025,jamessi01,Sion James,33,CHO,Duke
+2025,kalkbry01,Ryan Kalkbrenner,34,CHO,Creighton
+2025,broomjo01,Johni Broome,35,PHI,Auburn
+2025,thierad01,Adou Thiero,36,BRK,Arkansas
+2025,laniech01,Chaz Lanier,37,DET,Tennessee
+2025,joneska03,Kam Jones,38,SAS,Marquette
+2025,martial01,Alijah Martin,39,TOR,Florida
+2025,peavymi01,Micah Peavy,40,WAS,Georgetown
+2025,breako01,Koby Brea,41,GSW,Kentucky
+2025,raynama01,Maxime Raynaud,42,SAC,Stanford
+2025,watkija01,Jamir Watkins,43,UTA,Florida State
+2025,barnhbr01,Brooks Barnhizer,44,OKC,Northwestern
+2025,zikarro01,Rocco Zikarsky,45,CHI,
+2025,william01,Amari Williams,46,ORL,Kentucky
+2025,markobo01,Bogoljub Markovic,47,MIL,
+2025,smallja01,Javon Small,48,MEM,West Virginia
+2025,proctty01,Tyrese Proctor,49,CLE,Duke
+2025,sandeko01,Kobe Sanders,50,NYK,Nevada
+2025,diawamo01,Mohamed Diawara,51,LAC,
+2025,tooheal01,Alex Toohey,52,PHO,
+2025,tonjejo01,John Tonje,53,UTA,Wisconsin
+2025,peterta01,Taelon Peter,54,IND,Liberty
+2025,olbrila01,Lachlan Olbrich,55,LAL,
+2025,richawi02,Will Richard,56,MEM,Florida
+2025,shulgma01,Max Shulga,57,ORL,VCU
+2025,niangsa01,Saliou Niang,58,CLE,
+2025,mashaja01,Jahmai Mashack,59,HOU,Tennessee
