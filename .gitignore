@@ -1,0 +1,9 @@
+# Raw HTML cache (~150 MB, re-creatable with src/download.py)
+data/cache/
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+venv/
