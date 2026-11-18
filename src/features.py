@@ -13,7 +13,25 @@ PER36 = ["pts", "trb", "ast", "stl", "blk", "tov", "fg3", "fta"]
 LAG = ["pts", "trb", "ast", "mp_per_g", "g", "gs", "mp_total", "per", "ts_pct", "usg_pct",
        "ws", "ws_per_48", "obpm", "dbpm", "bpm", "vorp", "availability", "pts_per36",
        "all_star", "all_nba"]
+RATE = ["per", "ts_pct", "usg_pct", "ws_per_48", "obpm", "dbpm", "bpm", "pts_per36"]
 MIN_MINUTES = 250
+SHRINK_MINUTES = 250
+
+
+def shrink_rates(df):
+    """Pull small-sample rate stats toward the season's minutes-weighted league mean.
+
+    shrunk = (x * MP + mean * K) / (MP + K), K = 250 minutes, so a 20-minute season with
+    a PER of 60 ends up near league average while a 2,000-minute season barely moves.
+    """
+    mp = df["mp_total"].fillna(0)
+    for c in RATE:
+        valid = df[c].notna() & (mp > 0)
+        w_mean = (df.loc[valid, c] * mp[valid]).groupby(df.loc[valid, "season"]).sum() \
+            / mp[valid].groupby(df.loc[valid, "season"]).sum()
+        mu = df["season"].map(w_mean)
+        df[c] = (df[c].fillna(mu) * mp + mu * SHRINK_MINUTES) / (mp + SHRINK_MINUTES)
+    return df
 
 
 def build_features(df):
@@ -34,10 +52,17 @@ def build_features(df):
     df["all_star"] = awards.str.contains(r"\bAS\b").astype(int)
     df["all_nba"] = awards.str.contains(r"\bNBA[123]\b").astype(int)
 
+    raw_rates = df[RATE].add_suffix("_raw")
+    df = pd.concat([shrink_rates(df), raw_rates], axis=1)
+
     df["age_sq"] = df["age"] ** 2
     df["undrafted"] = df["pick_overall"].isna().astype(int)
     df["first_round"] = (df["pick_overall"] <= 30).astype(int)
-    df["rookie_scale"] = ((df["pick_overall"] <= 30) & (df["years_experience"] <= 3)).astype(int)
+    # Rookie deals run four seasons from the draft; the draft-year bound stops players who missed
+    # seasons (low experience count, e.g. Ben Simmons) from being kept on the scale after extending.
+    since_draft = df["season"] - df["draft_year"]
+    df["rookie_scale"] = ((df["pick_overall"] <= 30) & (df["years_experience"] <= 3)
+                          & since_draft.between(1, 4)).astype(int)
     df["shortened_season"] = df["season"].isin([2020, 2021]).astype(int)
 
     g = df.groupby("player_id")

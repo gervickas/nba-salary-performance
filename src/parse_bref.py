@@ -30,8 +30,14 @@ def read_cached(name):
     if not path.exists():
         return None
     with gzip.open(path, "rt", encoding="utf-8") as fh:
-        # Sports Reference hides secondary tables inside HTML comments.
-        return fh.read().replace("<!--", "").replace("-->", "")
+        text = fh.read()
+    # Pages cached before download.py forced utf-8 were decoded as latin-1 (e.g. "JokiÄ").
+    try:
+        text = text.encode("latin-1").decode("utf-8")
+    except (UnicodeEncodeError, UnicodeDecodeError):
+        pass
+    # Sports Reference hides secondary tables inside HTML comments.
+    return text.replace("<!--", "").replace("-->", "")
 
 
 def parse_table(html, table_id):

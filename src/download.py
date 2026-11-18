@@ -44,6 +44,7 @@ def fetch(session, url):
     for attempt in range(4):
         r = session.get(url, headers=HEADERS, timeout=30)
         if r.status_code == 200:
+            r.encoding = "utf-8"   # the site omits a charset header; requests would guess latin-1
             return r.text
         if r.status_code == 429:
             wait = 120 * (attempt + 1)
