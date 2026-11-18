@@ -2,7 +2,7 @@
 
 DS 325 · EDA & Feature Engineering Checkpoint · Nov 18, 2026
 
-**Team:** Gytis Gervickas · _[Teammate 2]_ · _[Teammate 3]_ · **Repo:** _[link]_
+**Team:** Gytis Gervickas · _[Teammate 2]_ · _[Teammate 3]_ · **Repo:** github.com/gervickas/nba-salary-performance
 
 **Question:** What does the NBA pay for, and who is over- or underpaid?
 
