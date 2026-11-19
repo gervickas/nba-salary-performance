@@ -78,3 +78,5 @@ Minutes/role, experience, draft pick, and 2-season VORP carry the signal. Points
 3. Do teams with more surplus value win more?
 
 _Code, data and full analysis: `notebooks/01–03`, `src/`, `data/`._
+
+_AI use: Claude AI (Anthropic) was used for setting up the GitHub repository and for code edits._

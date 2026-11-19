@@ -26,3 +26,5 @@ python reports/build_report.py
 ```
 
 > Data: Sports Reference LLC, *Basketball-Reference.com*, https://www.basketball-reference.com/ (accessed Nov 2026).
+
+**AI use:** Claude AI (Anthropic) was used for setting up the GitHub repository and for code edits.
