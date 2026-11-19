@@ -1,6 +1,6 @@
 # Paid for What? How NBA Salaries Track Performance
 
-DS 325 Final Project, Fall 2026 · Gytis Gervickas · Vikramaditya Padir · _teammate_
+DS 325 Final Project, Fall 2026 · Gytis Gervickas · Vikramaditya Padir · Ray Zamloot
 
 **Question:** What does the NBA pay for, and who is over- or underpaid?
 **Data:** Basketball-Reference.com, 2015-16 → 2025-26, scraped by us (5,968 player-seasons).
